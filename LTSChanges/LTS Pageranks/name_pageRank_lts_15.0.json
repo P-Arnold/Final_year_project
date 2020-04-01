@@ -1,0 +1,9202 @@
+﻿[
+  {
+    "package": "ghc-prim",
+    "score": 22.14620701763418
+  },
+  {
+    "package": "base",
+    "score": 19.770794469533154
+  },
+  {
+    "package": "deepseq",
+    "score": 2.930878989881459
+  },
+  {
+    "package": "array",
+    "score": 2.6707639048729908
+  },
+  {
+    "package": "bytestring",
+    "score": 2.288575492093912
+  },
+  {
+    "package": "transformers",
+    "score": 1.8832530619969592
+  },
+  {
+    "package": "text",
+    "score": 1.3221548907803655
+  },
+  {
+    "package": "containers",
+    "score": 1.3114729108456895
+  },
+  {
+    "package": "integer-gmp",
+    "score": 0.8849669772298165
+  },
+  {
+    "package": "template-haskell",
+    "score": 0.8433482173799595
+  },
+  {
+    "package": "time",
+    "score": 0.6873476521752471
+  },
+  {
+    "package": "mtl",
+    "score": 0.6662441128623613
+  },
+  {
+    "package": "pretty",
+    "score": 0.5146785473516863
+  },
+  {
+    "package": "vector",
+    "score": 0.48906153017737175
+  },
+  {
+    "package": "amazonka-core",
+    "score": 0.4433238180423905
+  },
+  {
+    "package": "hashable",
+    "score": 0.43666235713807117
+  },
+  {
+    "package": "filepath",
+    "score": 0.4157132666123109
+  },
+  {
+    "package": "binary",
+    "score": 0.40804139833009684
+  },
+  {
+    "package": "primitive",
+    "score": 0.3944716614618957
+  },
+  {
+    "package": "unix",
+    "score": 0.34391877751514394
+  },
+  {
+    "package": "directory",
+    "score": 0.3332112888446819
+  },
+  {
+    "package": "stm",
+    "score": 0.30598915084965167
+  },
+  {
+    "package": "aeson",
+    "score": 0.3042417696196186
+  },
+  {
+    "package": "unordered-containers",
+    "score": 0.2805792380320511
+  },
+  {
+    "package": "semigroups",
+    "score": 0.23952035418216205
+  },
+  {
+    "package": "attoparsec",
+    "score": 0.23826921308551632
+  },
+  {
+    "package": "exceptions",
+    "score": 0.2315054369751517
+  },
+  {
+    "package": "QuickCheck",
+    "score": 0.22527333425360066
+  },
+  {
+    "package": "tagged",
+    "score": 0.217559023767252
+  },
+  {
+    "package": "random",
+    "score": 0.20528482791310837
+  },
+  {
+    "package": "transformers-compat",
+    "score": 0.17780934076855903
+  },
+  {
+    "package": "process",
+    "score": 0.16912670040516992
+  },
+  {
+    "package": "parsec",
+    "score": 0.16527003966528936
+  },
+  {
+    "package": "lens",
+    "score": 0.15827825938805765
+  },
+  {
+    "package": "scientific",
+    "score": 0.14629647667321624
+  },
+  {
+    "package": "conduit",
+    "score": 0.12824906471051845
+  },
+  {
+    "package": "network",
+    "score": 0.12627075591559672
+  },
+  {
+    "package": "base-orphans",
+    "score": 0.12466312619501889
+  },
+  {
+    "package": "async",
+    "score": 0.11487222834489122
+  },
+  {
+    "package": "ansi-terminal",
+    "score": 0.1127316457362891
+  },
+  {
+    "package": "resourcet",
+    "score": 0.11121288709728196
+  },
+  {
+    "package": "http-types",
+    "score": 0.10995335838601022
+  },
+  {
+    "package": "base-compat",
+    "score": 0.10691431806546176
+  },
+  {
+    "package": "data-default-class",
+    "score": 0.10247148938275205
+  },
+  {
+    "package": "case-insensitive",
+    "score": 0.09964046069091091
+  },
+  {
+    "package": "utility-ht",
+    "score": 0.09866790939675761
+  },
+  {
+    "package": "transformers-base",
+    "score": 0.09529395390875749
+  },
+  {
+    "package": "validity",
+    "score": 0.09421068634113909
+  },
+  {
+    "package": "optparse-applicative",
+    "score": 0.09391693733348719
+  },
+  {
+    "package": "memory",
+    "score": 0.09332845128111096
+  },
+  {
+    "package": "semigroupoids",
+    "score": 0.09278749913795456
+  },
+  {
+    "package": "unliftio-core",
+    "score": 0.09192358320782631
+  },
+  {
+    "package": "bifunctors",
+    "score": 0.08033593172873207
+  },
+  {
+    "package": "comonad",
+    "score": 0.07821739886321744
+  },
+  {
+    "package": "syb",
+    "score": 0.0770318215456836
+  },
+  {
+    "package": "cereal",
+    "score": 0.07656454202130471
+  },
+  {
+    "package": "data-default",
+    "score": 0.07616291541720757
+  },
+  {
+    "package": "profunctors",
+    "score": 0.07564551693107674
+  },
+  {
+    "package": "monad-control",
+    "score": 0.0753702466165693
+  },
+  {
+    "package": "http-client",
+    "score": 0.0750549694242289
+  },
+  {
+    "package": "contravariant",
+    "score": 0.07478249181638365
+  },
+  {
+    "package": "dlist",
+    "score": 0.07272472792711862
+  },
+  {
+    "package": "distributive",
+    "score": 0.07265534968630583
+  },
+  {
+    "package": "split",
+    "score": 0.07231588592770091
+  },
+  {
+    "package": "th-abstraction",
+    "score": 0.07128068446570192
+  },
+  {
+    "package": "utf8-string",
+    "score": 0.07082642455939732
+  },
+  {
+    "package": "call-stack",
+    "score": 0.06830089385055979
+  },
+  {
+    "package": "blaze-builder",
+    "score": 0.06688688919484562
+  },
+  {
+    "package": "HUnit",
+    "score": 0.06447197887226508
+  },
+  {
+    "package": "conduit-extra",
+    "score": 0.06374556601439185
+  },
+  {
+    "package": "cryptonite",
+    "score": 0.06302843214462535
+  },
+  {
+    "package": "old-locale",
+    "score": 0.06170791554441231
+  },
+  {
+    "package": "wai",
+    "score": 0.057456240476209224
+  },
+  {
+    "package": "pipes",
+    "score": 0.05653311858581731
+  },
+  {
+    "package": "basement",
+    "score": 0.055613440235612696
+  },
+  {
+    "package": "colour",
+    "score": 0.055227177700621875
+  },
+  {
+    "package": "network-uri",
+    "score": 0.053937678507827505
+  },
+  {
+    "package": "microlens",
+    "score": 0.050754621439327845
+  },
+  {
+    "package": "genvalidity",
+    "score": 0.04904799528711011
+  },
+  {
+    "package": "xml-conduit",
+    "score": 0.04871516257382743
+  },
+  {
+    "package": "base64-bytestring",
+    "score": 0.047691863156111416
+  },
+  {
+    "package": "servant",
+    "score": 0.04661054418323756
+  },
+  {
+    "package": "StateVar",
+    "score": 0.0465267118216515
+  },
+  {
+    "package": "megaparsec",
+    "score": 0.04648643629528602
+  },
+  {
+    "package": "tasty",
+    "score": 0.046158041604271546
+  },
+  {
+    "package": "clock",
+    "score": 0.04605047085640748
+  },
+  {
+    "package": "mmorph",
+    "score": 0.0453234270834436
+  },
+  {
+    "package": "prettyprinter",
+    "score": 0.0445652119182134
+  },
+  {
+    "package": "splitmix",
+    "score": 0.042425791169917085
+  },
+  {
+    "package": "blaze-html",
+    "score": 0.04215679605870438
+  },
+  {
+    "package": "safe",
+    "score": 0.04109944024090788
+  },
+  {
+    "package": "hspec",
+    "score": 0.040858026770292794
+  },
+  {
+    "package": "ansi-wl-pprint",
+    "score": 0.040287409902962965
+  },
+  {
+    "package": "http-conduit",
+    "score": 0.04009360265888193
+  },
+  {
+    "package": "xml-types",
+    "score": 0.03991529163346596
+  },
+  {
+    "package": "unliftio",
+    "score": 0.03979758601901592
+  },
+  {
+    "package": "free",
+    "score": 0.03883364018834069
+  },
+  {
+    "package": "hspec-core",
+    "score": 0.03876682240361584
+  },
+  {
+    "package": "zlib",
+    "score": 0.03854448177021673
+  },
+  {
+    "package": "byteable",
+    "score": 0.038358951792536344
+  },
+  {
+    "package": "hourglass",
+    "score": 0.037748920930795085
+  },
+  {
+    "package": "extensible-exceptions",
+    "score": 0.03769493880145754
+  },
+  {
+    "package": "hspec-expectations",
+    "score": 0.037613357670110294
+  },
+  {
+    "package": "blaze-markup",
+    "score": 0.037419330169952386
+  },
+  {
+    "package": "void",
+    "score": 0.03695590055529683
+  },
+  {
+    "package": "mono-traversable",
+    "score": 0.03612314276540306
+  },
+  {
+    "package": "hw-prim",
+    "score": 0.035726218422959345
+  },
+  {
+    "package": "safe-exceptions",
+    "score": 0.03514779543623879
+  },
+  {
+    "package": "constraints",
+    "score": 0.03458899009878827
+  },
+  {
+    "package": "netlib-ffi",
+    "score": 0.034072557226754736
+  },
+  {
+    "package": "uuid-types",
+    "score": 0.03378494130384868
+  },
+  {
+    "package": "extra",
+    "score": 0.033784609153907096
+  },
+  {
+    "package": "http-client-tls",
+    "score": 0.03349845133047046
+  },
+  {
+    "package": "asn1-types",
+    "score": 0.032968746441112314
+  },
+  {
+    "package": "atomic-primops",
+    "score": 0.03276499453601692
+  },
+  {
+    "package": "pretty-show",
+    "score": 0.03260077219721913
+  },
+  {
+    "package": "entropy",
+    "score": 0.032558396319997886
+  },
+  {
+    "package": "universe-base",
+    "score": 0.03253047432496738
+  },
+  {
+    "package": "explicit-exception",
+    "score": 0.032452067464413654
+  },
+  {
+    "package": "JuicyPixels",
+    "score": 0.03197244876461321
+  },
+  {
+    "package": "hmatrix",
+    "score": 0.03189602562800899
+  },
+  {
+    "package": "regex-base",
+    "score": 0.03189152158834417
+  },
+  {
+    "package": "base-prelude",
+    "score": 0.03188349775503197
+  },
+  {
+    "package": "linear",
+    "score": 0.03144890073224663
+  },
+  {
+    "package": "time-compat",
+    "score": 0.03100605334034952
+  },
+  {
+    "package": "storable-complex",
+    "score": 0.03092212096455104
+  },
+  {
+    "package": "temporary",
+    "score": 0.030713179702128446
+  },
+  {
+    "package": "haskell-gi-base",
+    "score": 0.030333997156465797
+  },
+  {
+    "package": "bindings-DSL",
+    "score": 0.030048704599855442
+  },
+  {
+    "package": "storable-record",
+    "score": 0.029960226010734923
+  },
+  {
+    "package": "http-media",
+    "score": 0.029304455982833
+  },
+  {
+    "package": "parallel",
+    "score": 0.029271324393048827
+  },
+  {
+    "package": "mwc-random",
+    "score": 0.02906151864520734
+  },
+  {
+    "package": "haskell-src-exts",
+    "score": 0.02873695001674129
+  },
+  {
+    "package": "http-api-data",
+    "score": 0.028630915370118505
+  },
+  {
+    "package": "data-accessor",
+    "score": 0.028629195965149082
+  },
+  {
+    "package": "yaml",
+    "score": 0.02842974010160675
+  },
+  {
+    "package": "generics-sop",
+    "score": 0.028149234780506717
+  },
+  {
+    "package": "leancheck",
+    "score": 0.028075585525948563
+  },
+  {
+    "package": "haskell-gi",
+    "score": 0.027789519963630195
+  },
+  {
+    "package": "haskell-gi-overloading",
+    "score": 0.027789519963630195
+  },
+  {
+    "package": "fail",
+    "score": 0.027787443106515312
+  },
+  {
+    "package": "warp",
+    "score": 0.0276959950371516
+  },
+  {
+    "package": "X11",
+    "score": 0.027666712227967225
+  },
+  {
+    "package": "streaming-commons",
+    "score": 0.027454581275261607
+  },
+  {
+    "package": "integer-logarithms",
+    "score": 0.027246803799660484
+  },
+  {
+    "package": "MonadRandom",
+    "score": 0.02718063027787864
+  },
+  {
+    "package": "unix-compat",
+    "score": 0.027092926187485673
+  },
+  {
+    "package": "adjunctions",
+    "score": 0.026669085246442036
+  },
+  {
+    "package": "old-time",
+    "score": 0.02666179541420365
+  },
+  {
+    "package": "monad-logger",
+    "score": 0.026496035892367934
+  },
+  {
+    "package": "asn1-encoding",
+    "score": 0.026427852902744353
+  },
+  {
+    "package": "cmdargs",
+    "score": 0.026264487912368684
+  },
+  {
+    "package": "haskell-src-meta",
+    "score": 0.026144410831261164
+  },
+  {
+    "package": "securemem",
+    "score": 0.026095468020764952
+  },
+  {
+    "package": "reflection",
+    "score": 0.02570674751342363
+  },
+  {
+    "package": "kan-extensions",
+    "score": 0.02570633831572077
+  },
+  {
+    "package": "hw-bits",
+    "score": 0.02562339402151273
+  },
+  {
+    "package": "base16-bytestring",
+    "score": 0.02537394178806856
+  },
+  {
+    "package": "persistent",
+    "score": 0.025236538274716742
+  },
+  {
+    "package": "data-default-instances-containers",
+    "score": 0.025080257815606397
+  },
+  {
+    "package": "data-default-instances-dlist",
+    "score": 0.025080257815606397
+  },
+  {
+    "package": "data-default-instances-old-locale",
+    "score": 0.025080257815606397
+  },
+  {
+    "package": "foldl",
+    "score": 0.024999326652242897
+  },
+  {
+    "package": "uuid",
+    "score": 0.02434129253639126
+  },
+  {
+    "package": "x509",
+    "score": 0.024255404807950336
+  },
+  {
+    "package": "hxt",
+    "score": 0.024087564686774008
+  },
+  {
+    "package": "hspec-discover",
+    "score": 0.024039719770630096
+  },
+  {
+    "package": "path",
+    "score": 0.023953867583518702
+  },
+  {
+    "package": "vault",
+    "score": 0.023943032272938387
+  },
+  {
+    "package": "tls",
+    "score": 0.023894642077588162
+  },
+  {
+    "package": "aeson-pretty",
+    "score": 0.023808812492242936
+  },
+  {
+    "package": "generic-lens",
+    "score": 0.023755881481581403
+  },
+  {
+    "package": "regex-posix",
+    "score": 0.02358054555618107
+  },
+  {
+    "package": "auto-update",
+    "score": 0.023328375948534062
+  },
+  {
+    "package": "hxt-charproperties",
+    "score": 0.02319090932874646
+  },
+  {
+    "package": "uniplate",
+    "score": 0.023115606510557316
+  },
+  {
+    "package": "resource-pool",
+    "score": 0.023036991476553713
+  },
+  {
+    "package": "th-lift-instances",
+    "score": 0.022972809026989203
+  },
+  {
+    "package": "hedgehog",
+    "score": 0.02288960576709457
+  },
+  {
+    "package": "test-framework",
+    "score": 0.022703350216324913
+  },
+  {
+    "package": "file-embed",
+    "score": 0.02270190581701125
+  },
+  {
+    "package": "optics-core",
+    "score": 0.022697007011789484
+  },
+  {
+    "package": "lifted-base",
+    "score": 0.022691581422759177
+  },
+  {
+    "package": "primitive-unlifted",
+    "score": 0.02255258457090495
+  },
+  {
+    "package": "dec",
+    "score": 0.02250068428851009
+  },
+  {
+    "package": "text-short",
+    "score": 0.022262248890326613
+  },
+  {
+    "package": "gi-glib",
+    "score": 0.022236415527948323
+  },
+  {
+    "package": "parsers",
+    "score": 0.021988550860784137
+  },
+  {
+    "package": "monads-tf",
+    "score": 0.021768693343239588
+  },
+  {
+    "package": "tagsoup",
+    "score": 0.021567536059112907
+  },
+  {
+    "package": "lucid",
+    "score": 0.021546907174408887
+  },
+  {
+    "package": "operational",
+    "score": 0.021498748250000168
+  },
+  {
+    "package": "singletons",
+    "score": 0.021396841984020167
+  },
+  {
+    "package": "vector-algorithms",
+    "score": 0.02134156544509596
+  },
+  {
+    "package": "these",
+    "score": 0.021245637565715174
+  },
+  {
+    "package": "mmap",
+    "score": 0.021203062928896104
+  },
+  {
+    "package": "Only",
+    "score": 0.02102405814949596
+  },
+  {
+    "package": "bytes",
+    "score": 0.021016231277710355
+  },
+  {
+    "package": "microlens-th",
+    "score": 0.020849559409713742
+  },
+  {
+    "package": "servant-server",
+    "score": 0.02073146123269145
+  },
+  {
+    "package": "gi-gobject",
+    "score": 0.020718876681995197
+  },
+  {
+    "package": "ieee754",
+    "score": 0.020636721812117474
+  },
+  {
+    "package": "crypto-cipher-types",
+    "score": 0.020321483830148528
+  },
+  {
+    "package": "newtype-generics",
+    "score": 0.020259787679425195
+  },
+  {
+    "package": "MemoTrie",
+    "score": 0.02018475194079784
+  },
+  {
+    "package": "parser-combinators",
+    "score": 0.020181924232910327
+  },
+  {
+    "package": "yesod-core",
+    "score": 0.020150275630042937
+  },
+  {
+    "package": "th-lift",
+    "score": 0.020031848597473385
+  },
+  {
+    "package": "connection",
+    "score": 0.02002464377699699
+  },
+  {
+    "package": "mwc-probability",
+    "score": 0.020009053546236836
+  },
+  {
+    "package": "rebase",
+    "score": 0.019899999778717765
+  },
+  {
+    "package": "word8",
+    "score": 0.019855617250373735
+  },
+  {
+    "package": "derulo",
+    "score": 0.019801972570313197
+  },
+  {
+    "package": "doctest-driver-gen",
+    "score": 0.019801972570313197
+  },
+  {
+    "package": "free-vl",
+    "score": 0.019801972570313197
+  },
+  {
+    "package": "hlibcpuid",
+    "score": 0.019801972570313197
+  },
+  {
+    "package": "titlecase",
+    "score": 0.019801972570313197
+  },
+  {
+    "package": "hw-rankselect-base",
+    "score": 0.019788856704213254
+  },
+  {
+    "package": "fsnotify",
+    "score": 0.019769526713703196
+  },
+  {
+    "package": "guarded-allocation",
+    "score": 0.019651696783257656
+  },
+  {
+    "package": "HTTP",
+    "score": 0.01957445970514325
+  },
+  {
+    "package": "cookie",
+    "score": 0.0195638754632203
+  },
+  {
+    "package": "websockets",
+    "score": 0.019542974734007856
+  },
+  {
+    "package": "OpenGL",
+    "score": 0.019414589415279498
+  },
+  {
+    "package": "ghc-typelits-natnormalise",
+    "score": 0.019334653265541426
+  },
+  {
+    "package": "rio",
+    "score": 0.019328982733457793
+  },
+  {
+    "package": "x509-store",
+    "score": 0.019324153202234892
+  },
+  {
+    "package": "regex-tdfa",
+    "score": 0.019304860464921823
+  },
+  {
+    "package": "cassava",
+    "score": 0.019258036891051863
+  },
+  {
+    "package": "kind-apply",
+    "score": 0.019230099595151852
+  },
+  {
+    "package": "pem",
+    "score": 0.019160875125793134
+  },
+  {
+    "package": "monoid-subclasses",
+    "score": 0.019106020547187665
+  },
+  {
+    "package": "carray",
+    "score": 0.019042942876694734
+  },
+  {
+    "package": "math-functions",
+    "score": 0.018979358696990006
+  },
+  {
+    "package": "ghc-tcplugins-extra",
+    "score": 0.018972954380378906
+  },
+  {
+    "package": "OpenGLRaw",
+    "score": 0.018948610227176133
+  },
+  {
+    "package": "vector-th-unbox",
+    "score": 0.018885572009333485
+  },
+  {
+    "package": "HaXml",
+    "score": 0.01885694202637778
+  },
+  {
+    "package": "pipes-parse",
+    "score": 0.018855550301295113
+  },
+  {
+    "package": "pipes-safe",
+    "score": 0.018695296172391497
+  },
+  {
+    "package": "type-equality",
+    "score": 0.018647492787934365
+  },
+  {
+    "package": "xml",
+    "score": 0.01856441532191991
+  },
+  {
+    "package": "prettyprinter-ansi-terminal",
+    "score": 0.018547802801914294
+  },
+  {
+    "package": "validity-time",
+    "score": 0.018519503647694373
+  },
+  {
+    "package": "lens-family",
+    "score": 0.01851527227421856
+  },
+  {
+    "package": "crypto-api",
+    "score": 0.01845155487551957
+  },
+  {
+    "package": "bytestring-builder",
+    "score": 0.018410650380869496
+  },
+  {
+    "package": "smallcheck",
+    "score": 0.018409342143568215
+  },
+  {
+    "package": "genvalidity-hspec",
+    "score": 0.01836785719729961
+  },
+  {
+    "package": "proto-lens",
+    "score": 0.018283989150978723
+  },
+  {
+    "package": "base-unicode-symbols",
+    "score": 0.018177629164878317
+  },
+  {
+    "package": "indexed-profunctors",
+    "score": 0.018148670347725063
+  },
+  {
+    "package": "fast-logger",
+    "score": 0.018128061064826274
+  },
+  {
+    "package": "typed-process",
+    "score": 0.01802694196644924
+  },
+  {
+    "package": "non-empty",
+    "score": 0.018017003418010304
+  },
+  {
+    "package": "ghc-typelits-knownnat",
+    "score": 0.01800249992869795
+  },
+  {
+    "package": "GLUT",
+    "score": 0.017991426761660264
+  },
+  {
+    "package": "generic-deriving",
+    "score": 0.017944784351069953
+  },
+  {
+    "package": "haskell-lexer",
+    "score": 0.017878845911863835
+  },
+  {
+    "package": "path-pieces",
+    "score": 0.017803381204837113
+  },
+  {
+    "package": "time-locale-compat",
+    "score": 0.017772732807497967
+  },
+  {
+    "package": "util",
+    "score": 0.017686277661996437
+  },
+  {
+    "package": "dual",
+    "score": 0.017678027522342755
+  },
+  {
+    "package": "numtype-dk",
+    "score": 0.017616144309890818
+  },
+  {
+    "package": "lens-aeson",
+    "score": 0.017534749305072296
+  },
+  {
+    "package": "data-reify",
+    "score": 0.01752571373557315
+  },
+  {
+    "package": "heap",
+    "score": 0.017424999834038328
+  },
+  {
+    "package": "markdown-unlit",
+    "score": 0.01738396220270686
+  },
+  {
+    "package": "io-streams",
+    "score": 0.017337432235270008
+  },
+  {
+    "package": "hslua",
+    "score": 0.017322897402008285
+  },
+  {
+    "package": "unbounded-delays",
+    "score": 0.017108038685729073
+  },
+  {
+    "package": "unsafe",
+    "score": 0.017100733303294615
+  },
+  {
+    "package": "papillon",
+    "score": 0.01706134049824135
+  },
+  {
+    "package": "string-conversions",
+    "score": 0.017039477437176972
+  },
+  {
+    "package": "errors",
+    "score": 0.017024142062410565
+  },
+  {
+    "package": "conduit-combinators",
+    "score": 0.01700844434678513
+  },
+  {
+    "package": "validity-containers",
+    "score": 0.016999076347565287
+  },
+  {
+    "package": "network-bsd",
+    "score": 0.016981609759296648
+  },
+  {
+    "package": "sop-core",
+    "score": 0.01696693537153289
+  },
+  {
+    "package": "sample-frame",
+    "score": 0.016941786259412776
+  },
+  {
+    "package": "tf-random",
+    "score": 0.016906847708545555
+  },
+  {
+    "package": "haskeline",
+    "score": 0.016898902548211036
+  },
+  {
+    "package": "shakespeare",
+    "score": 0.0168976258574374
+  },
+  {
+    "package": "arithmoi",
+    "score": 0.01688972176687203
+  },
+  {
+    "package": "half",
+    "score": 0.016847618041949772
+  },
+  {
+    "package": "monoid-extras",
+    "score": 0.016843431456019867
+  },
+  {
+    "package": "hasql",
+    "score": 0.016800062127877036
+  },
+  {
+    "package": "diagrams-core",
+    "score": 0.016788325068619096
+  },
+  {
+    "package": "wai-extra",
+    "score": 0.016776982799649343
+  },
+  {
+    "package": "x509-validation",
+    "score": 0.016757145014241494
+  },
+  {
+    "package": "data-binary-ieee754",
+    "score": 0.016683907039560873
+  },
+  {
+    "package": "monad-loops",
+    "score": 0.016683795657029293
+  },
+  {
+    "package": "mime-types",
+    "score": 0.016581802232823736
+  },
+  {
+    "package": "open-browser",
+    "score": 0.016484249172041665
+  },
+  {
+    "package": "iproute",
+    "score": 0.01646018568531835
+  },
+  {
+    "package": "snap-core",
+    "score": 0.01642572312321136
+  },
+  {
+    "package": "th-desugar",
+    "score": 0.016392644228290374
+  },
+  {
+    "package": "non-negative",
+    "score": 0.0163705373287121
+  },
+  {
+    "package": "diagrams-lib",
+    "score": 0.016299344983708587
+  },
+  {
+    "package": "crypto-random",
+    "score": 0.016259679168852667
+  },
+  {
+    "package": "hw-int",
+    "score": 0.016238129388082896
+  },
+  {
+    "package": "HsOpenSSL",
+    "score": 0.01617662258066049
+  },
+  {
+    "package": "ghc-paths",
+    "score": 0.016159745559568218
+  },
+  {
+    "package": "hw-rankselect",
+    "score": 0.016148148773005157
+  },
+  {
+    "package": "logict",
+    "score": 0.016120049554665467
+  },
+  {
+    "package": "hashtables",
+    "score": 0.01605636532237621
+  },
+  {
+    "package": "mcmc-types",
+    "score": 0.016039321146090524
+  },
+  {
+    "package": "comfort-array",
+    "score": 0.016003642553696417
+  },
+  {
+    "package": "postgresql-simple",
+    "score": 0.01600069751306071
+  },
+  {
+    "package": "deferred-folds",
+    "score": 0.01599858782832599
+  },
+  {
+    "package": "terminfo",
+    "score": 0.01599425063191925
+  },
+  {
+    "package": "alsa-core",
+    "score": 0.015976536055095504
+  },
+  {
+    "package": "sdl2",
+    "score": 0.015913775492846647
+  },
+  {
+    "package": "equational-reasoning",
+    "score": 0.015907308594188055
+  },
+  {
+    "package": "ghc-typelits-presburger",
+    "score": 0.015907308594188055
+  },
+  {
+    "package": "psqueues",
+    "score": 0.015883166139204045
+  },
+  {
+    "package": "fgl",
+    "score": 0.015871101601322227
+  },
+  {
+    "package": "semirings",
+    "score": 0.015822074587283352
+  },
+  {
+    "package": "system-filepath",
+    "score": 0.01581362129933275
+  },
+  {
+    "package": "keys",
+    "score": 0.015752957216193342
+  },
+  {
+    "package": "groom",
+    "score": 0.015628997846825834
+  },
+  {
+    "package": "bitvec",
+    "score": 0.015619766089408772
+  },
+  {
+    "package": "hw-string-parse",
+    "score": 0.015619766089408772
+  },
+  {
+    "package": "enumset",
+    "score": 0.015606699953204961
+  },
+  {
+    "package": "uri-bytestring",
+    "score": 0.01559769516130894
+  },
+  {
+    "package": "groups",
+    "score": 0.01558303500960311
+  },
+  {
+    "package": "testing-type-modifiers",
+    "score": 0.015562562386039654
+  },
+  {
+    "package": "th-orphans",
+    "score": 0.015562190512049217
+  },
+  {
+    "package": "terminal-size",
+    "score": 0.01551045728271857
+  },
+  {
+    "package": "vector-sized",
+    "score": 0.015444999970495709
+  },
+  {
+    "package": "ghc-lib-parser",
+    "score": 0.015439959079353157
+  },
+  {
+    "package": "servant-foreign",
+    "score": 0.015371505284010933
+  },
+  {
+    "package": "ListLike",
+    "score": 0.01536346198750995
+  },
+  {
+    "package": "conferer",
+    "score": 0.015362499956972905
+  },
+  {
+    "package": "csv",
+    "score": 0.015359219858129587
+  },
+  {
+    "package": "dotgen",
+    "score": 0.015355638632086636
+  },
+  {
+    "package": "double-conversion",
+    "score": 0.015286187778692702
+  },
+  {
+    "package": "pandoc-types",
+    "score": 0.015282690692015481
+  },
+  {
+    "package": "matrix",
+    "score": 0.015279999943450102
+  },
+  {
+    "package": "xdg-basedir",
+    "score": 0.015260269279266138
+  },
+  {
+    "package": "pcre-light",
+    "score": 0.015181235962336368
+  },
+  {
+    "package": "bits-extra",
+    "score": 0.01517136847036852
+  },
+  {
+    "package": "stm-chans",
+    "score": 0.015146899868990248
+  },
+  {
+    "package": "writer-cps-transformers",
+    "score": 0.01513848065646017
+  },
+  {
+    "package": "th-data-compat",
+    "score": 0.015129227188754167
+  },
+  {
+    "package": "run-st",
+    "score": 0.015090364285577963
+  },
+  {
+    "package": "polyparse",
+    "score": 0.015081012387823976
+  },
+  {
+    "package": "base-compat-batteries",
+    "score": 0.015037279717732346
+  },
+  {
+    "package": "mtl-compat",
+    "score": 0.014989177498410935
+  },
+  {
+    "package": "byteorder",
+    "score": 0.014973795218178713
+  },
+  {
+    "package": "fin",
+    "score": 0.014957578973680946
+  },
+  {
+    "package": "regex-pcre-builtin",
+    "score": 0.014952034121834901
+  },
+  {
+    "package": "deepseq-generics",
+    "score": 0.014949999889358887
+  },
+  {
+    "package": "indexed",
+    "score": 0.014949999889358887
+  },
+  {
+    "package": "OneTuple",
+    "score": 0.014949999889358887
+  },
+  {
+    "package": "peano",
+    "score": 0.014949999889358887
+  },
+  {
+    "package": "tao",
+    "score": 0.014949999889358887
+  },
+  {
+    "package": "simple-cmd-args",
+    "score": 0.014925823882222185
+  },
+  {
+    "package": "echo",
+    "score": 0.014925373203949967
+  },
+  {
+    "package": "freetype2",
+    "score": 0.014925373203949967
+  },
+  {
+    "package": "gdp",
+    "score": 0.014925373203949967
+  },
+  {
+    "package": "io-manager",
+    "score": 0.014925373203949967
+  },
+  {
+    "package": "lawful",
+    "score": 0.014925373203949967
+  },
+  {
+    "package": "o-clock",
+    "score": 0.014925373203949967
+  },
+  {
+    "package": "print-console-colors",
+    "score": 0.014925373203949967
+  },
+  {
+    "package": "signal",
+    "score": 0.014925373203949967
+  },
+  {
+    "package": "tce-conf",
+    "score": 0.014925373203949967
+  },
+  {
+    "package": "validity-text",
+    "score": 0.014875750015489766
+  },
+  {
+    "package": "criterion",
+    "score": 0.014857787512886685
+  },
+  {
+    "package": "either",
+    "score": 0.014854985744276211
+  },
+  {
+    "package": "formatting",
+    "score": 0.014802808860404562
+  },
+  {
+    "package": "appar",
+    "score": 0.014758863217354756
+  },
+  {
+    "package": "pipes-bytestring",
+    "score": 0.014741283281815828
+  },
+  {
+    "package": "hsyslog",
+    "score": 0.014714285894297071
+  },
+  {
+    "package": "logging-facade",
+    "score": 0.014714285894297071
+  },
+  {
+    "package": "fingertree",
+    "score": 0.014687424435887815
+  },
+  {
+    "package": "abstract-deque",
+    "score": 0.01467756292847453
+  },
+  {
+    "package": "fixed",
+    "score": 0.014659874807274915
+  },
+  {
+    "package": "cursor",
+    "score": 0.01461250021122397
+  },
+  {
+    "package": "html",
+    "score": 0.014601633316803893
+  },
+  {
+    "package": "bmp",
+    "score": 0.014560275072454495
+  },
+  {
+    "package": "vformat",
+    "score": 0.014537500282749543
+  },
+  {
+    "package": "list-t",
+    "score": 0.0145139302086318
+  },
+  {
+    "package": "ObjectName",
+    "score": 0.014502129343365972
+  },
+  {
+    "package": "dejafu",
+    "score": 0.014454999808222065
+  },
+  {
+    "package": "amazonka",
+    "score": 0.014421107104717529
+  },
+  {
+    "package": "ip",
+    "score": 0.014400697029459487
+  },
+  {
+    "package": "tree-fun",
+    "score": 0.014400000106543312
+  },
+  {
+    "package": "ix-shapable",
+    "score": 0.014387530542371687
+  },
+  {
+    "package": "scrypt",
+    "score": 0.014365900167031223
+  },
+  {
+    "package": "express",
+    "score": 0.014352040205558305
+  },
+  {
+    "package": "first-class-families",
+    "score": 0.014343290351364705
+  },
+  {
+    "package": "OpenAL",
+    "score": 0.014342572412464814
+  },
+  {
+    "package": "setlocale",
+    "score": 0.014322609812227938
+  },
+  {
+    "package": "optics-extra",
+    "score": 0.014298944296065211
+  },
+  {
+    "package": "wai-app-static",
+    "score": 0.01427891197820802
+  },
+  {
+    "package": "unix-time",
+    "score": 0.014269677943382159
+  },
+  {
+    "package": "dhall",
+    "score": 0.014268294389244051
+  },
+  {
+    "package": "netwire",
+    "score": 0.014239828883347403
+  },
+  {
+    "package": "vector-space",
+    "score": 0.01423751060469569
+  },
+  {
+    "package": "data-lens-light",
+    "score": 0.014200000143609951
+  },
+  {
+    "package": "cmark",
+    "score": 0.014199182776055221
+  },
+  {
+    "package": "text-metrics",
+    "score": 0.014190289505806968
+  },
+  {
+    "package": "lzma",
+    "score": 0.014175953563535595
+  },
+  {
+    "package": "servant-client",
+    "score": 0.01417080616369226
+  },
+  {
+    "package": "swagger2",
+    "score": 0.014164187225978831
+  },
+  {
+    "package": "genvalidity-containers",
+    "score": 0.014066071370616565
+  },
+  {
+    "package": "Diff",
+    "score": 0.01405978161408886
+  },
+  {
+    "package": "vector-binary-instances",
+    "score": 0.014034832082652637
+  },
+  {
+    "package": "singleton-bool",
+    "score": 0.013993343575033726
+  },
+  {
+    "package": "crypto-pubkey-types",
+    "score": 0.01396972674242819
+  },
+  {
+    "package": "microlens-mtl",
+    "score": 0.013964693484057348
+  },
+  {
+    "package": "setenv",
+    "score": 0.013959588804696057
+  },
+  {
+    "package": "githash",
+    "score": 0.01395604803649619
+  },
+  {
+    "package": "lens-family-core",
+    "score": 0.013954301792355121
+  },
+  {
+    "package": "co-log-core",
+    "score": 0.013948596680665159
+  },
+  {
+    "package": "text-latin1",
+    "score": 0.013948210603967878
+  },
+  {
+    "package": "hxt-unicode",
+    "score": 0.013944953646910563
+  },
+  {
+    "package": "loch-th",
+    "score": 0.013937384604904545
+  },
+  {
+    "package": "brick",
+    "score": 0.013937361552001485
+  },
+  {
+    "package": "pureMD5",
+    "score": 0.013921176679432401
+  },
+  {
+    "package": "SHA",
+    "score": 0.013913282040943581
+  },
+  {
+    "package": "stringsearch",
+    "score": 0.013898188556733502
+  },
+  {
+    "package": "classy-prelude",
+    "score": 0.013896129477458998
+  },
+  {
+    "package": "focus",
+    "score": 0.01385393010044937
+  },
+  {
+    "package": "cpu",
+    "score": 0.013848031027577909
+  },
+  {
+    "package": "libyaml",
+    "score": 0.013843545012172442
+  },
+  {
+    "package": "simple-cmd",
+    "score": 0.013825824086088696
+  },
+  {
+    "package": "hw-balancedparens",
+    "score": 0.01380817867817941
+  },
+  {
+    "package": "wcwidth",
+    "score": 0.013808038490570431
+  },
+  {
+    "package": "cryptohash-sha1",
+    "score": 0.01378940859829356
+  },
+  {
+    "package": "HsYAML",
+    "score": 0.013763484580122836
+  },
+  {
+    "package": "strict",
+    "score": 0.013742248298761743
+  },
+  {
+    "package": "network-info",
+    "score": 0.01373449761165552
+  },
+  {
+    "package": "pointed",
+    "score": 0.013732485593743758
+  },
+  {
+    "package": "hpc",
+    "score": 0.013665811045041878
+  },
+  {
+    "package": "hw-json-simd",
+    "score": 0.013611632761864353
+  },
+  {
+    "package": "charset",
+    "score": 0.013593004364841703
+  },
+  {
+    "package": "singletons-presburger",
+    "score": 0.013570946549658283
+  },
+  {
+    "package": "gi-gio",
+    "score": 0.01356850009831704
+  },
+  {
+    "package": "List",
+    "score": 0.01354398241061689
+  },
+  {
+    "package": "pandoc",
+    "score": 0.013540154257660426
+  },
+  {
+    "package": "Boolean",
+    "score": 0.013523783870153804
+  },
+  {
+    "package": "NumInstances",
+    "score": 0.013523783870153804
+  },
+  {
+    "package": "socks",
+    "score": 0.01351704370077687
+  },
+  {
+    "package": "genvalidity-property",
+    "score": 0.013510522244032482
+  },
+  {
+    "package": "pipes-attoparsec",
+    "score": 0.013503783309476108
+  },
+  {
+    "package": "asn1-parse",
+    "score": 0.013420486469443235
+  },
+  {
+    "package": "filemanip",
+    "score": 0.013409999944269667
+  },
+  {
+    "package": "byteslice",
+    "score": 0.0133896578962812
+  },
+  {
+    "package": "wide-word",
+    "score": 0.0133896578962812
+  },
+  {
+    "package": "random-shuffle",
+    "score": 0.013371176666114488
+  },
+  {
+    "package": "validity-scientific",
+    "score": 0.013367649922729478
+  },
+  {
+    "package": "validity-vector",
+    "score": 0.013367649922729478
+  },
+  {
+    "package": "universe-reverse-instances",
+    "score": 0.0133621922612656
+  },
+  {
+    "package": "exception-transformers",
+    "score": 0.01335716071218486
+  },
+  {
+    "package": "wai-websockets",
+    "score": 0.013336539509102942
+  },
+  {
+    "package": "cryptohash-md5",
+    "score": 0.013322745869879278
+  },
+  {
+    "package": "x509-system",
+    "score": 0.013313963924083967
+  },
+  {
+    "package": "category",
+    "score": 0.013300000079907486
+  },
+  {
+    "package": "checkers",
+    "score": 0.013300000079907486
+  },
+  {
+    "package": "composition",
+    "score": 0.013300000079907486
+  },
+  {
+    "package": "data-inttrie",
+    "score": 0.013300000079907486
+  },
+  {
+    "package": "FloatingHex",
+    "score": 0.013300000079907486
+  },
+  {
+    "package": "network-transport",
+    "score": 0.013300000079907486
+  },
+  {
+    "package": "numeric-prelude",
+    "score": 0.013300000079907486
+  },
+  {
+    "package": "one-liner",
+    "score": 0.013300000079907486
+  },
+  {
+    "package": "primitive-unaligned",
+    "score": 0.013300000079907486
+  },
+  {
+    "package": "roles",
+    "score": 0.013300000079907486
+  },
+  {
+    "package": "special-values",
+    "score": 0.013300000079907486
+  },
+  {
+    "package": "type-of-html",
+    "score": 0.013300000079907486
+  },
+  {
+    "package": "unconstrained",
+    "score": 0.013300000079907486
+  },
+  {
+    "package": "unicode-show",
+    "score": 0.013300000079907486
+  },
+  {
+    "package": "zero",
+    "score": 0.013300000079907486
+  },
+  {
+    "package": "apecs",
+    "score": 0.013297642775723952
+  },
+  {
+    "package": "alg",
+    "score": 0.013291749940253804
+  },
+  {
+    "package": "autoexporter",
+    "score": 0.013289036495772748
+  },
+  {
+    "package": "bazel-runfiles",
+    "score": 0.013289036495772748
+  },
+  {
+    "package": "co-log-polysemy",
+    "score": 0.013289036495772748
+  },
+  {
+    "package": "Earley",
+    "score": 0.013289036495772748
+  },
+  {
+    "package": "hnock",
+    "score": 0.013289036495772748
+  },
+  {
+    "package": "polysemy",
+    "score": 0.013289036495772748
+  },
+  {
+    "package": "shellmet",
+    "score": 0.013289036495772748
+  },
+  {
+    "package": "tsv2csv",
+    "score": 0.013289036495772748
+  },
+  {
+    "package": "unlit",
+    "score": 0.013289036495772748
+  },
+  {
+    "package": "yoga",
+    "score": 0.013289036495772748
+  },
+  {
+    "package": "cryptohash",
+    "score": 0.013277815151959665
+  },
+  {
+    "package": "primitive-addr",
+    "score": 0.013233505190202
+  },
+  {
+    "package": "graphviz",
+    "score": 0.013227406015929399
+  },
+  {
+    "package": "spreadsheet",
+    "score": 0.013217500066384683
+  },
+  {
+    "package": "Glob",
+    "score": 0.013208551959399552
+  },
+  {
+    "package": "webex-teams-api",
+    "score": 0.013203019033515836
+  },
+  {
+    "package": "network-simple",
+    "score": 0.013186943408800297
+  },
+  {
+    "package": "template-haskell-compat-v0208",
+    "score": 0.013167695488509717
+  },
+  {
+    "package": "primes",
+    "score": 0.013152493473098738
+  },
+  {
+    "package": "bitarray",
+    "score": 0.013141950572856251
+  },
+  {
+    "package": "type-fun",
+    "score": 0.01313578959179723
+  },
+  {
+    "package": "stm-delay",
+    "score": 0.01311604855407496
+  },
+  {
+    "package": "gi-gdkpixbuf",
+    "score": 0.01311189175551136
+  },
+  {
+    "package": "validity-unordered-containers",
+    "score": 0.013108599986298949
+  },
+  {
+    "package": "hostname",
+    "score": 0.013095848701889122
+  },
+  {
+    "package": "dictionary-sharing",
+    "score": 0.013087562441360215
+  },
+  {
+    "package": "linenoise",
+    "score": 0.013086803064474564
+  },
+  {
+    "package": "wl-pprint-text",
+    "score": 0.01307178800286768
+  },
+  {
+    "package": "concurrent-output",
+    "score": 0.013069365985864407
+  },
+  {
+    "package": "gloss",
+    "score": 0.013062268200669176
+  },
+  {
+    "package": "hledger-lib",
+    "score": 0.01305424926553589
+  },
+  {
+    "package": "diagrams-svg",
+    "score": 0.01299605255248026
+  },
+  {
+    "package": "proto-lens-runtime",
+    "score": 0.012968201636173687
+  },
+  {
+    "package": "validity-uuid",
+    "score": 0.01296504998812453
+  },
+  {
+    "package": "cipher-aes",
+    "score": 0.012962036162626386
+  },
+  {
+    "package": "srcloc",
+    "score": 0.012957837281865078
+  },
+  {
+    "package": "gi-gdk",
+    "score": 0.012957172722017286
+  },
+  {
+    "package": "semialign",
+    "score": 0.012950989447885471
+  },
+  {
+    "package": "invariant",
+    "score": 0.012934118291653918
+  },
+  {
+    "package": "ghc-prof",
+    "score": 0.012928452737000447
+  },
+  {
+    "package": "binary-search",
+    "score": 0.01292000496207039
+  },
+  {
+    "package": "configurator",
+    "score": 0.012909082695259722
+  },
+  {
+    "package": "hscolour",
+    "score": 0.01289368780862403
+  },
+  {
+    "package": "nats",
+    "score": 0.012890008357718273
+  },
+  {
+    "package": "ad",
+    "score": 0.012887500012293466
+  },
+  {
+    "package": "mutable-containers",
+    "score": 0.012886746898528659
+  },
+  {
+    "package": "zip-archive",
+    "score": 0.012884941471252317
+  },
+  {
+    "package": "either-unwrap",
+    "score": 0.012884754415669704
+  },
+  {
+    "package": "tls-session-manager",
+    "score": 0.01287781281386701
+  },
+  {
+    "package": "text-printer",
+    "score": 0.01287610117200324
+  },
+  {
+    "package": "xmlgen",
+    "score": 0.012870841492888982
+  },
+  {
+    "package": "wl-pprint-annotated",
+    "score": 0.012851565969756904
+  },
+  {
+    "package": "abstract-par",
+    "score": 0.012846524268473639
+  },
+  {
+    "package": "quickcheck-io",
+    "score": 0.012839950217552413
+  },
+  {
+    "package": "blas-ffi",
+    "score": 0.012828571398276844
+  },
+  {
+    "package": "genvalidity-time",
+    "score": 0.012828571398276844
+  },
+  {
+    "package": "lapack-ffi",
+    "score": 0.012828571398276844
+  },
+  {
+    "package": "netlib-carray",
+    "score": 0.012828571398276844
+  },
+  {
+    "package": "netlib-comfort-array",
+    "score": 0.012828571398276844
+  },
+  {
+    "package": "finite-typelits",
+    "score": 0.012810484744259165
+  },
+  {
+    "package": "doctest",
+    "score": 0.012802197919319018
+  },
+  {
+    "package": "contravariant-extras",
+    "score": 0.012798769819528398
+  },
+  {
+    "package": "hw-fingertree",
+    "score": 0.01277453985721598
+  },
+  {
+    "package": "curl",
+    "score": 0.012770153423106513
+  },
+  {
+    "package": "FontyFruity",
+    "score": 0.012756416093981888
+  },
+  {
+    "package": "convertible",
+    "score": 0.012750000066589573
+  },
+  {
+    "package": "scalpel-core",
+    "score": 0.012750000066589573
+  },
+  {
+    "package": "yjsvg",
+    "score": 0.012750000066589573
+  },
+  {
+    "package": "yjtools",
+    "score": 0.012750000066589573
+  },
+  {
+    "package": "pipes-group",
+    "score": 0.01274439889196001
+  },
+  {
+    "package": "jira-wiki-markup",
+    "score": 0.012742830591929754
+  },
+  {
+    "package": "aeson-casing",
+    "score": 0.012722499985247859
+  },
+  {
+    "package": "show-combinators",
+    "score": 0.012706881394150295
+  },
+  {
+    "package": "attoparsec-binary",
+    "score": 0.012706736506661409
+  },
+  {
+    "package": "html-conduit",
+    "score": 0.012704712272277454
+  },
+  {
+    "package": "monad-parallel",
+    "score": 0.012697749940853108
+  },
+  {
+    "package": "unicode-transforms",
+    "score": 0.01269474998848469
+  },
+  {
+    "package": "hset",
+    "score": 0.012669857270811926
+  },
+  {
+    "package": "strict-list",
+    "score": 0.012655990493166685
+  },
+  {
+    "package": "bindings-GLFW",
+    "score": 0.012649892883522059
+  },
+  {
+    "package": "attoparsec-iso8601",
+    "score": 0.012643364636033593
+  },
+  {
+    "package": "generic-monoid",
+    "score": 0.012638534209076362
+  },
+  {
+    "package": "hexpat",
+    "score": 0.01263824111679555
+  },
+  {
+    "package": "th-extras",
+    "score": 0.012624705950491272
+  },
+  {
+    "package": "zstd",
+    "score": 0.012586374942766279
+  },
+  {
+    "package": "th-reify-many",
+    "score": 0.01256776146207849
+  },
+  {
+    "package": "http-date",
+    "score": 0.012561918100241442
+  },
+  {
+    "package": "bytestring-lexing",
+    "score": 0.012530000107362875
+  },
+  {
+    "package": "exact-pi",
+    "score": 0.012529007326172367
+  },
+  {
+    "package": "skylighting",
+    "score": 0.012524764668486052
+  },
+  {
+    "package": "loop",
+    "score": 0.012521200046758177
+  },
+  {
+    "package": "cborg",
+    "score": 0.012510641442433858
+  },
+  {
+    "package": "turtle",
+    "score": 0.012491048683783196
+  },
+  {
+    "package": "Decimal",
+    "score": 0.012489896835335046
+  },
+  {
+    "package": "cond",
+    "score": 0.012474999944679448
+  },
+  {
+    "package": "cryptohash-sha512",
+    "score": 0.012474999944679448
+  },
+  {
+    "package": "diagrams-contrib",
+    "score": 0.012474999944679448
+  },
+  {
+    "package": "file-embed-lzma",
+    "score": 0.012474999944679448
+  },
+  {
+    "package": "fixed-vector",
+    "score": 0.012474999944679448
+  },
+  {
+    "package": "flac",
+    "score": 0.012474999944679448
+  },
+  {
+    "package": "hasql-pool",
+    "score": 0.012474999944679448
+  },
+  {
+    "package": "hs-functors",
+    "score": 0.012474999944679448
+  },
+  {
+    "package": "IPv6Addr",
+    "score": 0.012474999944679448
+  },
+  {
+    "package": "iso3166-country-codes",
+    "score": 0.012474999944679448
+  },
+  {
+    "package": "latex",
+    "score": 0.012474999944679448
+  },
+  {
+    "package": "nondeterminism",
+    "score": 0.012474999944679448
+  },
+  {
+    "package": "pcg-random",
+    "score": 0.012474999944679448
+  },
+  {
+    "package": "servant-swagger-ui-core",
+    "score": 0.012474999944679448
+  },
+  {
+    "package": "size-based",
+    "score": 0.012474999944679448
+  },
+  {
+    "package": "universe-instances-extended",
+    "score": 0.012474999944679448
+  },
+  {
+    "package": "universe-some",
+    "score": 0.012474999944679448
+  },
+  {
+    "package": "cabal2spec",
+    "score": 0.012468828047169853
+  },
+  {
+    "package": "freer-simple",
+    "score": 0.012468828047169853
+  },
+  {
+    "package": "hedgehog-fn",
+    "score": 0.012468828047169853
+  },
+  {
+    "package": "hspec-golden",
+    "score": 0.012468828047169853
+  },
+  {
+    "package": "natural-transformation",
+    "score": 0.012468828047169853
+  },
+  {
+    "package": "paripari",
+    "score": 0.012468828047169853
+  },
+  {
+    "package": "pid1",
+    "score": 0.012468828047169853
+  },
+  {
+    "package": "qchas",
+    "score": 0.012468828047169853
+  },
+  {
+    "package": "Win32",
+    "score": 0.012468828047169853
+  },
+  {
+    "package": "Win32-notify",
+    "score": 0.012468828047169853
+  },
+  {
+    "package": "serialise",
+    "score": 0.012464101848440986
+  },
+  {
+    "package": "lifted-async",
+    "score": 0.012458601254624231
+  },
+  {
+    "package": "vector-instances",
+    "score": 0.012456642846064741
+  },
+  {
+    "package": "hw-mquery",
+    "score": 0.012450109957736469
+  },
+  {
+    "package": "persistent-template",
+    "score": 0.012450020994048249
+  },
+  {
+    "package": "spatial-math",
+    "score": 0.012439372345506466
+  },
+  {
+    "package": "data-endian",
+    "score": 0.012420187656361206
+  },
+  {
+    "package": "silently",
+    "score": 0.012413652606222047
+  },
+  {
+    "package": "fold-debounce",
+    "score": 0.012404285746160903
+  },
+  {
+    "package": "xmonad",
+    "score": 0.012399680481378161
+  },
+  {
+    "package": "parsec-class",
+    "score": 0.012395360643196032
+  },
+  {
+    "package": "pathtype",
+    "score": 0.01238949579419569
+  },
+  {
+    "package": "gi-cairo",
+    "score": 0.012388430204850929
+  },
+  {
+    "package": "yesod-persistent",
+    "score": 0.012382808663442674
+  },
+  {
+    "package": "postgresql-libpq",
+    "score": 0.012382158275087126
+  },
+  {
+    "package": "aeson-yaml",
+    "score": 0.012373038755725655
+  },
+  {
+    "package": "wave",
+    "score": 0.012360250032215853
+  },
+  {
+    "package": "simple-cabal",
+    "score": 0.01235714294714854
+  },
+  {
+    "package": "murmur3",
+    "score": 0.012336073510050493
+  },
+  {
+    "package": "modern-uri",
+    "score": 0.01233281967130325
+  },
+  {
+    "package": "regex-compat",
+    "score": 0.012300743043371545
+  },
+  {
+    "package": "hinotify",
+    "score": 0.01229054624027791
+  },
+  {
+    "package": "warp-tls",
+    "score": 0.01228163615928638
+  },
+  {
+    "package": "servant-client-core",
+    "score": 0.01226654519414418
+  },
+  {
+    "package": "gitrev",
+    "score": 0.012266325250520294
+  },
+  {
+    "package": "leveldb-haskell",
+    "score": 0.012247191119569909
+  },
+  {
+    "package": "genvalidity-text",
+    "score": 0.012227499904111037
+  },
+  {
+    "package": "hmatrix-gsl",
+    "score": 0.012214721653669774
+  },
+  {
+    "package": "prelude-compat",
+    "score": 0.012208738991139409
+  },
+  {
+    "package": "digest",
+    "score": 0.01219476229864609
+  },
+  {
+    "package": "data-bword",
+    "score": 0.012188384682776787
+  },
+  {
+    "package": "http2",
+    "score": 0.012182538403041386
+  },
+  {
+    "package": "enummapset",
+    "score": 0.012149085743197558
+  },
+  {
+    "package": "GLURaw",
+    "score": 0.012135604849954322
+  },
+  {
+    "package": "wai-logger",
+    "score": 0.012123989849998643
+  },
+  {
+    "package": "binary-conduit",
+    "score": 0.012120898834852682
+  },
+  {
+    "package": "yesod-form",
+    "score": 0.012109031973854259
+  },
+  {
+    "package": "scheduler",
+    "score": 0.012106500050431358
+  },
+  {
+    "package": "language-javascript",
+    "score": 0.012104341841870701
+  },
+  {
+    "package": "assoc",
+    "score": 0.012103318198767457
+  },
+  {
+    "package": "tasty-quickcheck",
+    "score": 0.012074285692069689
+  },
+  {
+    "package": "th-expand-syns",
+    "score": 0.012073680677273407
+  },
+  {
+    "package": "some",
+    "score": 0.012058375037740925
+  },
+  {
+    "package": "minimorph",
+    "score": 0.012046285064542304
+  },
+  {
+    "package": "monad-par-extras",
+    "score": 0.0120432627897314
+  },
+  {
+    "package": "retry",
+    "score": 0.012036440618440265
+  },
+  {
+    "package": "natural-arithmetic",
+    "score": 0.012034540215650518
+  },
+  {
+    "package": "erf",
+    "score": 0.012031440699645884
+  },
+  {
+    "package": "vty",
+    "score": 0.012002472668126372
+  },
+  {
+    "package": "servant-docs",
+    "score": 0.011992047612881246
+  },
+  {
+    "package": "base64",
+    "score": 0.011980000094044962
+  },
+  {
+    "package": "clr-marshal",
+    "score": 0.011980000094044962
+  },
+  {
+    "package": "colorful-monoids",
+    "score": 0.011980000094044962
+  },
+  {
+    "package": "composable-associations",
+    "score": 0.011980000094044962
+  },
+  {
+    "package": "exception-hierarchy",
+    "score": 0.011980000094044962
+  },
+  {
+    "package": "fft",
+    "score": 0.011980000094044962
+  },
+  {
+    "package": "genvalidity-uuid",
+    "score": 0.011980000094044962
+  },
+  {
+    "package": "kind-generics",
+    "score": 0.011980000094044962
+  },
+  {
+    "package": "machines",
+    "score": 0.011980000094044962
+  },
+  {
+    "package": "ParsecTools",
+    "score": 0.011980000094044962
+  },
+  {
+    "package": "password",
+    "score": 0.011980000094044962
+  },
+  {
+    "package": "rank2classes",
+    "score": 0.011980000094044962
+  },
+  {
+    "package": "salak",
+    "score": 0.011980000094044962
+  },
+  {
+    "package": "selda",
+    "score": 0.011980000094044962
+  },
+  {
+    "package": "simple-affine-space",
+    "score": 0.011980000094044962
+  },
+  {
+    "package": "speculate",
+    "score": 0.011980000094044962
+  },
+  {
+    "package": "tfp",
+    "score": 0.011980000094044962
+  },
+  {
+    "package": "typed-uuid",
+    "score": 0.011980000094044962
+  },
+  {
+    "package": "validity-path",
+    "score": 0.011980000094044962
+  },
+  {
+    "package": "proto-lens-protoc",
+    "score": 0.01197820170440238
+  },
+  {
+    "package": "ALUT",
+    "score": 0.011976047942451237
+  },
+  {
+    "package": "blanks",
+    "score": 0.011976047942451237
+  },
+  {
+    "package": "hinfo",
+    "score": 0.011976047942451237
+  },
+  {
+    "package": "optparse-simple",
+    "score": 0.011976047942451237
+  },
+  {
+    "package": "pandoc-csv2table",
+    "score": 0.011976047942451237
+  },
+  {
+    "package": "perfect-vector-shuffle",
+    "score": 0.011976047942451237
+  },
+  {
+    "package": "tasty-discover",
+    "score": 0.011976047942451237
+  },
+  {
+    "package": "xml-to-json-fast",
+    "score": 0.011976047942451237
+  },
+  {
+    "package": "yes-precure5-command",
+    "score": 0.011976047942451237
+  },
+  {
+    "package": "data-checked",
+    "score": 0.011972675491077951
+  },
+  {
+    "package": "names-th",
+    "score": 0.011953479009252995
+  },
+  {
+    "package": "product-isomorphic",
+    "score": 0.011953479009252995
+  },
+  {
+    "package": "storablevector",
+    "score": 0.011944642879534522
+  },
+  {
+    "package": "process-extras",
+    "score": 0.01193533819168807
+  },
+  {
+    "package": "zeromq4-haskell",
+    "score": 0.011933046779555185
+  },
+  {
+    "package": "skylighting-core",
+    "score": 0.011908373675022246
+  },
+  {
+    "package": "rocksdb-haskell",
+    "score": 0.011905596237411381
+  },
+  {
+    "package": "foundation",
+    "score": 0.011897060251538614
+  },
+  {
+    "package": "event-list",
+    "score": 0.011896675069438069
+  },
+  {
+    "package": "ghc-syntax-highlighter",
+    "score": 0.01188492864872388
+  },
+  {
+    "package": "mmark",
+    "score": 0.01188492864872388
+  },
+  {
+    "package": "tagchup",
+    "score": 0.011883621356048264
+  },
+  {
+    "package": "xml-basic",
+    "score": 0.011883621356048264
+  },
+  {
+    "package": "dual-tree",
+    "score": 0.01187401721631091
+  },
+  {
+    "package": "heaps",
+    "score": 0.011870747287757704
+  },
+  {
+    "package": "cereal-vector",
+    "score": 0.011869839432692979
+  },
+  {
+    "package": "hw-ip",
+    "score": 0.011866277349970327
+  },
+  {
+    "package": "binary-orphans",
+    "score": 0.011861561908957267
+  },
+  {
+    "package": "tar",
+    "score": 0.011855210162466401
+  },
+  {
+    "package": "hxt-regex-xmlschema",
+    "score": 0.011834360664024707
+  },
+  {
+    "package": "bin",
+    "score": 0.011832600015332
+  },
+  {
+    "package": "hsemail",
+    "score": 0.011819510567102984
+  },
+  {
+    "package": "easy-file",
+    "score": 0.01179467811395389
+  },
+  {
+    "package": "optics-th",
+    "score": 0.011776828637748631
+  },
+  {
+    "package": "css-text",
+    "score": 0.011776791117585879
+  },
+  {
+    "package": "TypeCompose",
+    "score": 0.011759282653432557
+  },
+  {
+    "package": "chronos",
+    "score": 0.01175833947261692
+  },
+  {
+    "package": "X11-xft",
+    "score": 0.011730397004175766
+  },
+  {
+    "package": "snap-server",
+    "score": 0.0117212010414005
+  },
+  {
+    "package": "hw-excess",
+    "score": 0.011708762081030269
+  },
+  {
+    "package": "greskell-core",
+    "score": 0.01169714283896611
+  },
+  {
+    "package": "control-monad-free",
+    "score": 0.011694445414629592
+  },
+  {
+    "package": "stm-conduit",
+    "score": 0.01169201061954576
+  },
+  {
+    "package": "servant-blaze",
+    "score": 0.01168874781247575
+  },
+  {
+    "package": "microlens-platform",
+    "score": 0.011678205112693841
+  },
+  {
+    "package": "hw-packed-vector",
+    "score": 0.011668531313740118
+  },
+  {
+    "package": "HsYAML-aeson",
+    "score": 0.011666107465150748
+  },
+  {
+    "package": "apecs-physics",
+    "score": 0.011650000039953748
+  },
+  {
+    "package": "avro",
+    "score": 0.011650000039953748
+  },
+  {
+    "package": "bcrypt",
+    "score": 0.011650000039953748
+  },
+  {
+    "package": "casing",
+    "score": 0.011650000039953748
+  },
+  {
+    "package": "colorize-haskell",
+    "score": 0.011650000039953748
+  },
+  {
+    "package": "data-ref",
+    "score": 0.011650000039953748
+  },
+  {
+    "package": "extended-reals",
+    "score": 0.011650000039953748
+  },
+  {
+    "package": "language-haskell-extract",
+    "score": 0.011650000039953748
+  },
+  {
+    "package": "lattices",
+    "score": 0.011650000039953748
+  },
+  {
+    "package": "massiv",
+    "score": 0.011650000039953748
+  },
+  {
+    "package": "phantom-state",
+    "score": 0.011650000039953748
+  },
+  {
+    "package": "rainbow",
+    "score": 0.011650000039953748
+  },
+  {
+    "package": "relational-query",
+    "score": 0.011650000039953748
+  },
+  {
+    "package": "timezone-series",
+    "score": 0.011650000039953748
+  },
+  {
+    "package": "union-find",
+    "score": 0.011650000039953748
+  },
+  {
+    "package": "validity-bytestring",
+    "score": 0.011650000039953748
+  },
+  {
+    "package": "inline-c",
+    "score": 0.011647642851021383
+  },
+  {
+    "package": "ClustalParser",
+    "score": 0.011647254558581153
+  },
+  {
+    "package": "crypto-enigma",
+    "score": 0.011647254558581153
+  },
+  {
+    "package": "debian-build",
+    "score": 0.011647254558581153
+  },
+  {
+    "package": "focuslist",
+    "score": 0.011647254558581153
+  },
+  {
+    "package": "getopt-generics",
+    "score": 0.011647254558581153
+  },
+  {
+    "package": "haskell-import-graph",
+    "score": 0.011647254558581153
+  },
+  {
+    "package": "hpc-codecov",
+    "score": 0.011647254558581153
+  },
+  {
+    "package": "sdl2-image",
+    "score": 0.011647254558581153
+  },
+  {
+    "package": "structured-cli",
+    "score": 0.011647254558581153
+  },
+  {
+    "package": "xls",
+    "score": 0.011647254558581153
+  },
+  {
+    "package": "shelly",
+    "score": 0.011630985946658587
+  },
+  {
+    "package": "time-manager",
+    "score": 0.011628897920912337
+  },
+  {
+    "package": "gi-pango",
+    "score": 0.011626891512100892
+  },
+  {
+    "package": "code-page",
+    "score": 0.011626688454549835
+  },
+  {
+    "package": "gloss-rendering",
+    "score": 0.011616455659609027
+  },
+  {
+    "package": "protolude",
+    "score": 0.011613858915056926
+  },
+  {
+    "package": "clientsession",
+    "score": 0.011592135310406464
+  },
+  {
+    "package": "neat-interpolation",
+    "score": 0.011577216765234448
+  },
+  {
+    "package": "monad-par",
+    "score": 0.01154810904344415
+  },
+  {
+    "package": "vector-builder",
+    "score": 0.011546833344623624
+  },
+  {
+    "package": "mysql",
+    "score": 0.011539450013333417
+  },
+  {
+    "package": "fmlist",
+    "score": 0.011520982790986357
+  },
+  {
+    "package": "cereal-text",
+    "score": 0.011510778551677463
+  },
+  {
+    "package": "reducers",
+    "score": 0.011496000045444824
+  },
+  {
+    "package": "gi-gtk",
+    "score": 0.01148500001290814
+  },
+  {
+    "package": "bytestring-strict-builder",
+    "score": 0.011462384660225106
+  },
+  {
+    "package": "placeholders",
+    "score": 0.011462384660225106
+  },
+  {
+    "package": "text-zipper",
+    "score": 0.011462361376819708
+  },
+  {
+    "package": "http-streams",
+    "score": 0.011461428613401959
+  },
+  {
+    "package": "nonce",
+    "score": 0.01146077256053105
+  },
+  {
+    "package": "tasty-hunit",
+    "score": 0.0114545212726939
+  },
+  {
+    "package": "product-profunctors",
+    "score": 0.011450000077020385
+  },
+  {
+    "package": "concurrency",
+    "score": 0.011431045034260033
+  },
+  {
+    "package": "zlib-bindings",
+    "score": 0.011430338207649991
+  },
+  {
+    "package": "quickcheck-instances",
+    "score": 0.011428422216595218
+  },
+  {
+    "package": "pretty-simple",
+    "score": 0.011418732359947845
+  },
+  {
+    "package": "bindings-libzip",
+    "score": 0.011414285699138427
+  },
+  {
+    "package": "boxes",
+    "score": 0.011414285699138427
+  },
+  {
+    "package": "concurrent-split",
+    "score": 0.011414285699138427
+  },
+  {
+    "package": "crypto-numbers",
+    "score": 0.011414285699138427
+  },
+  {
+    "package": "esqueleto",
+    "score": 0.011414285699138427
+  },
+  {
+    "package": "hreader",
+    "score": 0.011414285699138427
+  },
+  {
+    "package": "hspec-smallcheck",
+    "score": 0.011414285699138427
+  },
+  {
+    "package": "lens-action",
+    "score": 0.011414285699138427
+  },
+  {
+    "package": "mergeful",
+    "score": 0.011414285699138427
+  },
+  {
+    "package": "mergeless",
+    "score": 0.011414285699138427
+  },
+  {
+    "package": "newtype",
+    "score": 0.011414285699138427
+  },
+  {
+    "package": "nicify-lib",
+    "score": 0.011414285699138427
+  },
+  {
+    "package": "pretty-hex",
+    "score": 0.011414285699138427
+  },
+  {
+    "package": "qrcode-core",
+    "score": 0.011414285699138427
+  },
+  {
+    "package": "ratel",
+    "score": 0.011414285699138427
+  },
+  {
+    "package": "req",
+    "score": 0.011414285699138427
+  },
+  {
+    "package": "siggy-chardust",
+    "score": 0.011414285699138427
+  },
+  {
+    "package": "singleton-nats",
+    "score": 0.011414285699138427
+  },
+  {
+    "package": "stm-hamt",
+    "score": 0.011414285699138427
+  },
+  {
+    "package": "stripe-concepts",
+    "score": 0.011414285699138427
+  },
+  {
+    "package": "tasty-smallcheck",
+    "score": 0.011414285699138427
+  },
+  {
+    "package": "primitive-extras",
+    "score": 0.011412517832650345
+  },
+  {
+    "package": "credential-store",
+    "score": 0.011412268160715437
+  },
+  {
+    "package": "dbus",
+    "score": 0.011412268160715437
+  },
+  {
+    "package": "distributed-closure",
+    "score": 0.011412268160715437
+  },
+  {
+    "package": "gnuplot",
+    "score": 0.011412268160715437
+  },
+  {
+    "package": "learn-physics",
+    "score": 0.011412268160715437
+  },
+  {
+    "package": "mini-egison",
+    "score": 0.011412268160715437
+  },
+  {
+    "package": "not-gloss",
+    "score": 0.011412268160715437
+  },
+  {
+    "package": "rcu",
+    "score": 0.011412268160715437
+  },
+  {
+    "package": "sort",
+    "score": 0.011412268160715437
+  },
+  {
+    "package": "text-ldap",
+    "score": 0.011412268160715437
+  },
+  {
+    "package": "zeromq4-patterns",
+    "score": 0.011412268160715437
+  },
+  {
+    "package": "cryptohash-sha256",
+    "score": 0.01140735299559311
+  },
+  {
+    "package": "indexed-list-literals",
+    "score": 0.011390049991896386
+  },
+  {
+    "package": "text-show",
+    "score": 0.011370769278146335
+  },
+  {
+    "package": "gi-atk",
+    "score": 0.011370634355043886
+  },
+  {
+    "package": "mainland-pretty",
+    "score": 0.011367142784874894
+  },
+  {
+    "package": "email-validate",
+    "score": 0.011363273519803074
+  },
+  {
+    "package": "log-domain",
+    "score": 0.011356299987346581
+  },
+  {
+    "package": "safecopy",
+    "score": 0.011356299987346581
+  },
+  {
+    "package": "contiguous",
+    "score": 0.011355117670050995
+  },
+  {
+    "package": "antiope-core",
+    "score": 0.01133043482666836
+  },
+  {
+    "package": "dhall-json",
+    "score": 0.011329775791498681
+  },
+  {
+    "package": "servant-checked-exceptions-core",
+    "score": 0.011318708638568
+  },
+  {
+    "package": "world-peace",
+    "score": 0.011318708638568
+  },
+  {
+    "package": "core-text",
+    "score": 0.011290945652472155
+  },
+  {
+    "package": "unique",
+    "score": 0.011290766278434611
+  },
+  {
+    "package": "microlens-ghc",
+    "score": 0.011284602591913436
+  },
+  {
+    "package": "xss-sanitize",
+    "score": 0.01128275329738253
+  },
+  {
+    "package": "ordered-containers",
+    "score": 0.011248362885230142
+  },
+  {
+    "package": "bytestring-conversion",
+    "score": 0.011237499972339728
+  },
+  {
+    "package": "bytestring-tree-builder",
+    "score": 0.011237499972339728
+  },
+  {
+    "package": "di-core",
+    "score": 0.011237499972339728
+  },
+  {
+    "package": "eventful-core",
+    "score": 0.011237499972339728
+  },
+  {
+    "package": "hexml",
+    "score": 0.011237499972339728
+  },
+  {
+    "package": "nonempty-vector",
+    "score": 0.011237499972339728
+  },
+  {
+    "package": "partial-isomorphisms",
+    "score": 0.011237499972339728
+  },
+  {
+    "package": "protocol-radius",
+    "score": 0.011237499972339728
+  },
+  {
+    "package": "quickcheck-simple",
+    "score": 0.011237499972339728
+  },
+  {
+    "package": "xlsx",
+    "score": 0.011237499972339728
+  },
+  {
+    "package": "climb",
+    "score": 0.011235955080537083
+  },
+  {
+    "package": "dhall-bash",
+    "score": 0.011235955080537083
+  },
+  {
+    "package": "highlighting-kate",
+    "score": 0.011235955080537083
+  },
+  {
+    "package": "mercury-api",
+    "score": 0.011235955080537083
+  },
+  {
+    "package": "optparse-generic",
+    "score": 0.011235955080537083
+  },
+  {
+    "package": "servant-JuicyPixels",
+    "score": 0.011235955080537083
+  },
+  {
+    "package": "shell-escape",
+    "score": 0.011235955080537083
+  },
+  {
+    "package": "svg-builder",
+    "score": 0.011235835514962681
+  },
+  {
+    "package": "strict-base-types",
+    "score": 0.011226472592796454
+  },
+  {
+    "package": "Rasterific",
+    "score": 0.011212981541018163
+  },
+  {
+    "package": "cryptonite-conduit",
+    "score": 0.011201512229747513
+  },
+  {
+    "package": "insert-ordered-containers",
+    "score": 0.011199328658340174
+  },
+  {
+    "package": "rasterific-svg",
+    "score": 0.011171345102130751
+  },
+  {
+    "package": "svg-tree",
+    "score": 0.011171345102130751
+  },
+  {
+    "package": "torsor",
+    "score": 0.011164075653976853
+  },
+  {
+    "package": "ghc-compact",
+    "score": 0.011159085580923912
+  },
+  {
+    "package": "LambdaHack",
+    "score": 0.011159085580923912
+  },
+  {
+    "package": "lzma-conduit",
+    "score": 0.011157142823794866
+  },
+  {
+    "package": "pointedlist",
+    "score": 0.011147500017832507
+  },
+  {
+    "package": "yesod",
+    "score": 0.011147438204352973
+  },
+  {
+    "package": "yesod-static",
+    "score": 0.011147438204352973
+  },
+  {
+    "package": "irc-ctcp",
+    "score": 0.011139700025833017
+  },
+  {
+    "package": "network-conduit-tls",
+    "score": 0.011139700025833017
+  },
+  {
+    "package": "ascii-progress",
+    "score": 0.011100000026635835
+  },
+  {
+    "package": "between",
+    "score": 0.011100000026635835
+  },
+  {
+    "package": "bimap",
+    "score": 0.011100000026635835
+  },
+  {
+    "package": "failable",
+    "score": 0.011100000026635835
+  },
+  {
+    "package": "hmatrix-morpheus",
+    "score": 0.011100000026635835
+  },
+  {
+    "package": "hsshellscript",
+    "score": 0.011100000026635835
+  },
+  {
+    "package": "Imlib",
+    "score": 0.011100000026635835
+  },
+  {
+    "package": "vector-split",
+    "score": 0.011100000026635835
+  },
+  {
+    "package": "x11-xim",
+    "score": 0.011100000026635835
+  },
+  {
+    "package": "yesod-auth",
+    "score": 0.011100000026635835
+  },
+  {
+    "package": "chronos-bench",
+    "score": 0.011098779186258569
+  },
+  {
+    "package": "elm-bridge",
+    "score": 0.011098779186258569
+  },
+  {
+    "package": "heredoc",
+    "score": 0.011098779186258569
+  },
+  {
+    "package": "hsinstall",
+    "score": 0.011098779186258569
+  },
+  {
+    "package": "http-client-overrides",
+    "score": 0.011098779186258569
+  },
+  {
+    "package": "hyraxAbif",
+    "score": 0.011098779186258569
+  },
+  {
+    "package": "servant-elm",
+    "score": 0.011098779186258569
+  },
+  {
+    "package": "wai-enforce-https",
+    "score": 0.011098779186258569
+  },
+  {
+    "package": "webex-teams-conduit",
+    "score": 0.011098779186258569
+  },
+  {
+    "package": "webex-teams-pipes",
+    "score": 0.011098779186258569
+  },
+  {
+    "package": "primitive-offset",
+    "score": 0.01108409420199508
+  },
+  {
+    "package": "hw-json-simple-cursor",
+    "score": 0.011081510085474493
+  },
+  {
+    "package": "hslogger",
+    "score": 0.011076301308210672
+  },
+  {
+    "package": "multistate",
+    "score": 0.011072536552954919
+  },
+  {
+    "package": "cabal-plan",
+    "score": 0.011058342478822265
+  },
+  {
+    "package": "mustache",
+    "score": 0.011057984698258793
+  },
+  {
+    "package": "bsb-http-chunked",
+    "score": 0.011054578266324543
+  },
+  {
+    "package": "simple-sendfile",
+    "score": 0.011054578266324543
+  },
+  {
+    "package": "data-dword",
+    "score": 0.01105244742198637
+  },
+  {
+    "package": "data-serializer",
+    "score": 0.01105244742198637
+  },
+  {
+    "package": "data-textual",
+    "score": 0.01105244742198637
+  },
+  {
+    "package": "type-hint",
+    "score": 0.01105244742198637
+  },
+  {
+    "package": "attoparsec-ip",
+    "score": 0.01104765298547137
+  },
+  {
+    "package": "bytedump",
+    "score": 0.01104765298547137
+  },
+  {
+    "package": "annotated-wl-pprint",
+    "score": 0.011041584255108329
+  },
+  {
+    "package": "dlist-instances",
+    "score": 0.01104044299839512
+  },
+  {
+    "package": "purescript-bridge",
+    "score": 0.011036772644373014
+  },
+  {
+    "package": "servant-subscriber",
+    "score": 0.011036772644373014
+  },
+  {
+    "package": "optional-args",
+    "score": 0.01101542405247686
+  },
+  {
+    "package": "sum-type-boilerplate",
+    "score": 0.01101137500416372
+  },
+  {
+    "package": "bitset-word8",
+    "score": 0.011005460679289826
+  },
+  {
+    "package": "diagrams-solve",
+    "score": 0.011003574103660875
+  },
+  {
+    "package": "hw-json-standard-cursor",
+    "score": 0.011000890659056777
+  },
+  {
+    "package": "authenticate-oauth",
+    "score": 0.010990744353475756
+  },
+  {
+    "package": "aeson-generic-compat",
+    "score": 0.010990000047022486
+  },
+  {
+    "package": "floatshow",
+    "score": 0.010990000047022486
+  },
+  {
+    "package": "genvalidity-scientific",
+    "score": 0.010990000047022486
+  },
+  {
+    "package": "genvalidity-unordered-containers",
+    "score": 0.010990000047022486
+  },
+  {
+    "package": "genvalidity-vector",
+    "score": 0.010990000047022486
+  },
+  {
+    "package": "language-c",
+    "score": 0.010990000047022486
+  },
+  {
+    "package": "language-nix",
+    "score": 0.010990000047022486
+  },
+  {
+    "package": "midi",
+    "score": 0.010990000047022486
+  },
+  {
+    "package": "mono-traversable-keys",
+    "score": 0.010990000047022486
+  },
+  {
+    "package": "network-simple-tls",
+    "score": 0.010990000047022486
+  },
+  {
+    "package": "pipes-network",
+    "score": 0.010990000047022486
+  },
+  {
+    "package": "poll",
+    "score": 0.010990000047022486
+  },
+  {
+    "package": "RefSerialize",
+    "score": 0.010990000047022486
+  },
+  {
+    "package": "streaming",
+    "score": 0.010990000047022486
+  },
+  {
+    "package": "timerep",
+    "score": 0.010990000047022486
+  },
+  {
+    "package": "validity-aeson",
+    "score": 0.010990000047022486
+  },
+  {
+    "package": "wild-bind",
+    "score": 0.010990000047022486
+  },
+  {
+    "package": "cuckoo-filter",
+    "score": 0.010989010992736727
+  },
+  {
+    "package": "editor-open",
+    "score": 0.010989010992736727
+  },
+  {
+    "package": "epub-metadata",
+    "score": 0.010989010992736727
+  },
+  {
+    "package": "HandsomeSoup",
+    "score": 0.010989010992736727
+  },
+  {
+    "package": "hxt-http",
+    "score": 0.010989010992736727
+  },
+  {
+    "package": "regex-compat-tdfa",
+    "score": 0.010989010992736727
+  },
+  {
+    "package": "sdl2-gfx",
+    "score": 0.010989010992736727
+  },
+  {
+    "package": "stratosphere",
+    "score": 0.010989010992736727
+  },
+  {
+    "package": "ghc-source-gen",
+    "score": 0.010988201657379902
+  },
+  {
+    "package": "temporary-resourcet",
+    "score": 0.010984894379260791
+  },
+  {
+    "package": "basic-prelude",
+    "score": 0.010980728938385175
+  },
+  {
+    "package": "bytesmith",
+    "score": 0.010950446004651448
+  },
+  {
+    "package": "small-bytearray-builder",
+    "score": 0.010950446004651448
+  },
+  {
+    "package": "fast-math",
+    "score": 0.010946313445074348
+  },
+  {
+    "package": "integration",
+    "score": 0.010946313445074348
+  },
+  {
+    "package": "matrices",
+    "score": 0.010946313445074348
+  },
+  {
+    "package": "bzlib-conduit",
+    "score": 0.010944752650437607
+  },
+  {
+    "package": "doclayout",
+    "score": 0.010942432357890271
+  },
+  {
+    "package": "text-conversions",
+    "score": 0.010942432357890271
+  },
+  {
+    "package": "js-flot",
+    "score": 0.010940436313143582
+  },
+  {
+    "package": "js-jquery",
+    "score": 0.010940436313143582
+  },
+  {
+    "package": "loopbreaker",
+    "score": 0.010939724721584335
+  },
+  {
+    "package": "type-errors",
+    "score": 0.010939724721584335
+  },
+  {
+    "package": "type-errors-pretty",
+    "score": 0.010939724721584335
+  },
+  {
+    "package": "unagi-chan",
+    "score": 0.010939724721584335
+  },
+  {
+    "package": "generic-data",
+    "score": 0.010936894770895841
+  },
+  {
+    "package": "ini",
+    "score": 0.010920643719191882
+  },
+  {
+    "package": "hw-simd",
+    "score": 0.010916620224842627
+  },
+  {
+    "package": "monoid-transformer",
+    "score": 0.010906675022415591
+  },
+  {
+    "package": "amazonka-dynamodb",
+    "score": 0.010900000006076889
+  },
+  {
+    "package": "amazonka-sns",
+    "score": 0.010900000006076889
+  },
+  {
+    "package": "async-refresh",
+    "score": 0.010900000006076889
+  },
+  {
+    "package": "classy-prelude-conduit",
+    "score": 0.010900000006076889
+  },
+  {
+    "package": "executable-path",
+    "score": 0.010900000006076889
+  },
+  {
+    "package": "fuzzy-time",
+    "score": 0.010900000006076889
+  },
+  {
+    "package": "hasty-hamiltonian",
+    "score": 0.010900000006076889
+  },
+  {
+    "package": "hspec-megaparsec",
+    "score": 0.010900000006076889
+  },
+  {
+    "package": "io-storage",
+    "score": 0.010900000006076889
+  },
+  {
+    "package": "llvm-hs-pure",
+    "score": 0.010900000006076889
+  },
+  {
+    "package": "mighty-metropolis",
+    "score": 0.010900000006076889
+  },
+  {
+    "package": "monad-coroutine",
+    "score": 0.010900000006076889
+  },
+  {
+    "package": "monad-unlift",
+    "score": 0.010900000006076889
+  },
+  {
+    "package": "quickcheck-arbitrary-adt",
+    "score": 0.010900000006076889
+  },
+  {
+    "package": "speedy-slice",
+    "score": 0.010900000006076889
+  },
+  {
+    "package": "traverse-with-class",
+    "score": 0.010900000006076889
+  },
+  {
+    "package": "validation",
+    "score": 0.010900000006076889
+  },
+  {
+    "package": "yesod-newsfeed",
+    "score": 0.010900000006076889
+  },
+  {
+    "package": "aeson-diff",
+    "score": 0.010899182580896576
+  },
+  {
+    "package": "dotenv",
+    "score": 0.010899182580896576
+  },
+  {
+    "package": "edit-distance-vector",
+    "score": 0.010899182580896576
+  },
+  {
+    "package": "kanji",
+    "score": 0.010899182580896576
+  },
+  {
+    "package": "microlens-aeson",
+    "score": 0.010899182580896576
+  },
+  {
+    "package": "ormolu",
+    "score": 0.010899182580896576
+  },
+  {
+    "package": "servant-mock",
+    "score": 0.010899182580896576
+  },
+  {
+    "package": "tldr",
+    "score": 0.010899182580896576
+  },
+  {
+    "package": "hledger",
+    "score": 0.010883470717325632
+  },
+  {
+    "package": "haskell-lsp",
+    "score": 0.010880882957060016
+  },
+  {
+    "package": "blaze-textual",
+    "score": 0.010879450020402155
+  },
+  {
+    "package": "data-accessor-transformers",
+    "score": 0.01086908811570445
+  },
+  {
+    "package": "filepattern",
+    "score": 0.010846568498496339
+  },
+  {
+    "package": "postgresql-binary",
+    "score": 0.01083160308717198
+  },
+  {
+    "package": "text-builder",
+    "score": 0.01083160308717198
+  },
+  {
+    "package": "cereal-conduit",
+    "score": 0.010826792168923668
+  },
+  {
+    "package": "aeson-better-errors",
+    "score": 0.010825000019976877
+  },
+  {
+    "package": "alsa-mixer",
+    "score": 0.010825000019976877
+  },
+  {
+    "package": "Color",
+    "score": 0.010825000019976877
+  },
+  {
+    "package": "gpolyline",
+    "score": 0.010825000019976877
+  },
+  {
+    "package": "hint",
+    "score": 0.010825000019976877
+  },
+  {
+    "package": "libmpd",
+    "score": 0.010825000019976877
+  },
+  {
+    "package": "netpbm",
+    "score": 0.010825000019976877
+  },
+  {
+    "package": "regex",
+    "score": 0.010825000019976877
+  },
+  {
+    "package": "shake",
+    "score": 0.010825000019976877
+  },
+  {
+    "package": "soap",
+    "score": 0.010825000019976877
+  },
+  {
+    "package": "xmonad-contrib",
+    "score": 0.010825000019976877
+  },
+  {
+    "package": "Allure",
+    "score": 0.010824313072248116
+  },
+  {
+    "package": "nuxeo",
+    "score": 0.010824313072248116
+  },
+  {
+    "package": "pager",
+    "score": 0.010824313072248116
+  },
+  {
+    "package": "tomland",
+    "score": 0.010824313072248116
+  },
+  {
+    "package": "url",
+    "score": 0.010824313072248116
+  },
+  {
+    "package": "cprng-aes",
+    "score": 0.010819729560287093
+  },
+  {
+    "package": "skein",
+    "score": 0.010819729560287093
+  },
+  {
+    "package": "statestack",
+    "score": 0.010801218622036694
+  },
+  {
+    "package": "say",
+    "score": 0.010792381853433257
+  },
+  {
+    "package": "hw-parser",
+    "score": 0.010791683326921417
+  },
+  {
+    "package": "RSA",
+    "score": 0.010777202628091809
+  },
+  {
+    "package": "cpphs",
+    "score": 0.010776464470879446
+  },
+  {
+    "package": "persistable-record",
+    "score": 0.010768899993781824
+  },
+  {
+    "package": "sql-words",
+    "score": 0.010768899993781824
+  },
+  {
+    "package": "th-reify-compat",
+    "score": 0.010768899993781824
+  },
+  {
+    "package": "fedora-dists",
+    "score": 0.010761538462247708
+  },
+  {
+    "package": "from-sum",
+    "score": 0.010761538462247708
+  },
+  {
+    "package": "gi-xlib",
+    "score": 0.010761538462247708
+  },
+  {
+    "package": "heterocephalus",
+    "score": 0.010761538462247708
+  },
+  {
+    "package": "servant-lucid",
+    "score": 0.010761538462247708
+  },
+  {
+    "package": "serversession",
+    "score": 0.010761538462247708
+  },
+  {
+    "package": "type-natural",
+    "score": 0.010761538462247708
+  },
+  {
+    "package": "wai-session",
+    "score": 0.010761538462247708
+  },
+  {
+    "package": "writer-cps-mtl",
+    "score": 0.010761538462247708
+  },
+  {
+    "package": "data-ordlist",
+    "score": 0.010760953104840052
+  },
+  {
+    "package": "perfect-hash-generator",
+    "score": 0.010760953104840052
+  },
+  {
+    "package": "servant-js",
+    "score": 0.010760953104840052
+  },
+  {
+    "package": "deque",
+    "score": 0.01073127492245948
+  },
+  {
+    "package": "selective",
+    "score": 0.010729666644765538
+  },
+  {
+    "package": "cpio-conduit",
+    "score": 0.010707142849569218
+  },
+  {
+    "package": "exception-mtl",
+    "score": 0.010707142849569218
+  },
+  {
+    "package": "http-directory",
+    "score": 0.010707142849569218
+  },
+  {
+    "package": "jwt",
+    "score": 0.010707142849569218
+  },
+  {
+    "package": "lockfree-queue",
+    "score": 0.010707142849569218
+  },
+  {
+    "package": "mmark-ext",
+    "score": 0.010707142849569218
+  },
+  {
+    "package": "safe-exceptions-checked",
+    "score": 0.010707142849569218
+  },
+  {
+    "package": "stache",
+    "score": 0.010707142849569218
+  },
+  {
+    "package": "storable-tuple",
+    "score": 0.010707142849569218
+  },
+  {
+    "package": "symbol",
+    "score": 0.010707142849569218
+  },
+  {
+    "package": "xdg-userdirs",
+    "score": 0.010707142849569218
+  },
+  {
+    "package": "dhall-yaml",
+    "score": 0.01070663810888834
+  },
+  {
+    "package": "GLFW-b",
+    "score": 0.01070663810888834
+  },
+  {
+    "package": "netwire-input",
+    "score": 0.01070663810888834
+  },
+  {
+    "package": "netwire-input-glfw",
+    "score": 0.01070663810888834
+  },
+  {
+    "package": "odbc",
+    "score": 0.01070663810888834
+  },
+  {
+    "package": "servant-websockets",
+    "score": 0.01070663810888834
+  },
+  {
+    "package": "irc",
+    "score": 0.010689699993981784
+  },
+  {
+    "package": "iconv",
+    "score": 0.010669796860893265
+  },
+  {
+    "package": "xml-conduit-writer",
+    "score": 0.010669796860893265
+  },
+  {
+    "package": "gi-dbusmenu",
+    "score": 0.01065999999293127
+  },
+  {
+    "package": "mysql-simple",
+    "score": 0.01065999999293127
+  },
+  {
+    "package": "ral",
+    "score": 0.01065999999293127
+  },
+  {
+    "package": "streams",
+    "score": 0.01065999999293127
+  },
+  {
+    "package": "test-framework-hunit",
+    "score": 0.01065999999293127
+  },
+  {
+    "package": "vec",
+    "score": 0.01065999999293127
+  },
+  {
+    "package": "attoparsec-path",
+    "score": 0.010659560279198893
+  },
+  {
+    "package": "co-log",
+    "score": 0.010659560279198893
+  },
+  {
+    "package": "ersatz",
+    "score": 0.010659560279198893
+  },
+  {
+    "package": "follow-file",
+    "score": 0.010659560279198893
+  },
+  {
+    "package": "hxt-curl",
+    "score": 0.010659560279198893
+  },
+  {
+    "package": "hxt-expat",
+    "score": 0.010659560279198893
+  },
+  {
+    "package": "hxt-tagsoup",
+    "score": 0.010659560279198893
+  },
+  {
+    "package": "persistent-sqlite",
+    "score": 0.010659560279198893
+  },
+  {
+    "package": "pipes-ordered-zip",
+    "score": 0.010659560279198893
+  },
+  {
+    "package": "sequence-formats",
+    "score": 0.010659560279198893
+  },
+  {
+    "package": "sequenceTools",
+    "score": 0.010659560279198893
+  },
+  {
+    "package": "servant-static-th",
+    "score": 0.010659560279198893
+  },
+  {
+    "package": "stylish-haskell",
+    "score": 0.010659560279198893
+  },
+  {
+    "package": "typerep-map",
+    "score": 0.010659560279198893
+  },
+  {
+    "package": "weeder",
+    "score": 0.010659560279198893
+  },
+  {
+    "package": "xml-to-json",
+    "score": 0.010659560279198893
+  },
+  {
+    "package": "dense-linear-algebra",
+    "score": 0.010648109094992855
+  },
+  {
+    "package": "expiring-cache-map",
+    "score": 0.010646581086602281
+  },
+  {
+    "package": "binary-parser",
+    "score": 0.010630781569451537
+  },
+  {
+    "package": "network-ip",
+    "score": 0.010630781569451537
+  },
+  {
+    "package": "http-common",
+    "score": 0.01063037858417375
+  },
+  {
+    "package": "openssl-streams",
+    "score": 0.01063037858417375
+  },
+  {
+    "package": "hjsmin",
+    "score": 0.010627988629009108
+  },
+  {
+    "package": "hosc",
+    "score": 0.010618749986169868
+  },
+  {
+    "package": "asciidiagram",
+    "score": 0.010618363496643354
+  },
+  {
+    "package": "hw-eliasfano",
+    "score": 0.010618363496643354
+  },
+  {
+    "package": "servant-checked-exceptions",
+    "score": 0.010618363496643354
+  },
+  {
+    "package": "blaze-svg",
+    "score": 0.010612696569805857
+  },
+  {
+    "package": "enclosed-exceptions",
+    "score": 0.010606035556851176
+  },
+  {
+    "package": "readable",
+    "score": 0.010602276516771675
+  },
+  {
+    "package": "tabular",
+    "score": 0.01059245859932808
+  },
+  {
+    "package": "timeit",
+    "score": 0.01059245859932808
+  },
+  {
+    "package": "amazonka-sqs",
+    "score": 0.010582352917990655
+  },
+  {
+    "package": "attoparsec-uri",
+    "score": 0.010582352917990655
+  },
+  {
+    "package": "mime-mail",
+    "score": 0.010582352917990655
+  },
+  {
+    "package": "monad-control-aligned",
+    "score": 0.010582352917990655
+  },
+  {
+    "package": "monad-time",
+    "score": 0.010582352917990655
+  },
+  {
+    "package": "path-extra",
+    "score": 0.010582352917990655
+  },
+  {
+    "package": "quickcheck-classes-base",
+    "score": 0.010582352917990655
+  },
+  {
+    "package": "shell-utility",
+    "score": 0.010582352917990655
+  },
+  {
+    "package": "aws-cloudfront-signed-cookies",
+    "score": 0.010582010594763266
+  },
+  {
+    "package": "distribution-opensuse",
+    "score": 0.010582010594763266
+  },
+  {
+    "package": "json-rpc",
+    "score": 0.010582010594763266
+  },
+  {
+    "package": "config-ini",
+    "score": 0.010574916178994554
+  },
+  {
+    "package": "data-clist",
+    "score": 0.010574916178994554
+  },
+  {
+    "package": "word-wrap",
+    "score": 0.010574916178994554
+  },
+  {
+    "package": "network-byte-order",
+    "score": 0.010574319661341265
+  },
+  {
+    "package": "html-entity-map",
+    "score": 0.010560289487059444
+  },
+  {
+    "package": "approximate",
+    "score": 0.010550000013317922
+  },
+  {
+    "package": "bits",
+    "score": 0.010550000013317922
+  },
+  {
+    "package": "hformat",
+    "score": 0.010550000013317922
+  },
+  {
+    "package": "SafeSemaphore",
+    "score": 0.010550000013317922
+  },
+  {
+    "package": "scanner",
+    "score": 0.010550000013317922
+  },
+  {
+    "package": "siphash",
+    "score": 0.010550000013317922
+  },
+  {
+    "package": "pandoc-pyplot",
+    "score": 0.010549694588491594
+  },
+  {
+    "package": "port-utils",
+    "score": 0.010549694588491594
+  },
+  {
+    "package": "postgres-options",
+    "score": 0.010549694588491594
+  },
+  {
+    "package": "servant-rawm",
+    "score": 0.010549694588491594
+  },
+  {
+    "package": "tmp-postgres",
+    "score": 0.010549694588491594
+  },
+  {
+    "package": "zip-stream",
+    "score": 0.010549694588491594
+  },
+  {
+    "package": "Chart",
+    "score": 0.01052105260780082
+  },
+  {
+    "package": "diagrams-postscript",
+    "score": 0.01052105260780082
+  },
+  {
+    "package": "path-io",
+    "score": 0.01052105260780082
+  },
+  {
+    "package": "rio-prettyprint",
+    "score": 0.01052105260780082
+  },
+  {
+    "package": "SVGFonts",
+    "score": 0.01052105260780082
+  },
+  {
+    "package": "hledger-iadd",
+    "score": 0.01052077856228057
+  },
+  {
+    "package": "hw-dsv",
+    "score": 0.01052077856228057
+  },
+  {
+    "package": "influxdb",
+    "score": 0.01052077856228057
+  },
+  {
+    "package": "ipython-kernel",
+    "score": 0.01052077856228057
+  },
+  {
+    "package": "circle-packing",
+    "score": 0.010514593759435238
+  },
+  {
+    "package": "cubicbezier",
+    "score": 0.010514593759435238
+  },
+  {
+    "package": "force-layout",
+    "score": 0.010514593759435238
+  },
+  {
+    "package": "mfsolve",
+    "score": 0.010514593759435238
+  },
+  {
+    "package": "chunked-data",
+    "score": 0.010509524742418364
+  },
+  {
+    "package": "mono-traversable-instances",
+    "score": 0.010509524742418364
+  },
+  {
+    "package": "io-streams-haproxy",
+    "score": 0.010504521271905114
+  },
+  {
+    "package": "pandoc-plot",
+    "score": 0.010494752618586374
+  },
+  {
+    "package": "parallel-io",
+    "score": 0.010494752618586374
+  },
+  {
+    "package": "postgresql-orm",
+    "score": 0.010494752618586374
+  },
+  {
+    "package": "zip",
+    "score": 0.010494752618586374
+  },
+  {
+    "package": "managed",
+    "score": 0.010494645520809469
+  },
+  {
+    "package": "system-fileio",
+    "score": 0.010494645520809469
+  },
+  {
+    "package": "active",
+    "score": 0.010488980344225645
+  },
+  {
+    "package": "intervals",
+    "score": 0.010488980344225645
+  },
+  {
+    "package": "topograph",
+    "score": 0.010475989532018825
+  },
+  {
+    "package": "criterion-measurement",
+    "score": 0.010474490648233914
+  },
+  {
+    "package": "microstache",
+    "score": 0.010474490648233914
+  },
+  {
+    "package": "statistics",
+    "score": 0.010474490648233914
+  },
+  {
+    "package": "buffer-builder",
+    "score": 0.010471428566379481
+  },
+  {
+    "package": "xml-hamlet",
+    "score": 0.010471428566379481
+  },
+  {
+    "package": "sbp",
+    "score": 0.010471204190972498
+  },
+  {
+    "package": "js-dgtable",
+    "score": 0.010465945661308077
+  },
+  {
+    "package": "conduit-parse",
+    "score": 0.010450000003038449
+  },
+  {
+    "package": "conduit-zstd",
+    "score": 0.010450000003038449
+  },
+  {
+    "package": "irc-conduit",
+    "score": 0.010450000003038449
+  },
+  {
+    "package": "pqueue",
+    "score": 0.010450000003038449
+  },
+  {
+    "package": "egison",
+    "score": 0.010449795556938812
+  },
+  {
+    "package": "hoauth2",
+    "score": 0.010449795556938812
+  },
+  {
+    "package": "scotty",
+    "score": 0.010449795556938812
+  },
+  {
+    "package": "uri-bytestring-aeson",
+    "score": 0.010449795556938812
+  },
+  {
+    "package": "wai-middleware-static",
+    "score": 0.010449795556938812
+  },
+  {
+    "package": "xeno",
+    "score": 0.010445004988578158
+  },
+  {
+    "package": "haskell-lsp-types",
+    "score": 0.010430882954021576
+  },
+  {
+    "package": "rope-utf16-splay",
+    "score": 0.010430882954021576
+  },
+  {
+    "package": "sorted-list",
+    "score": 0.010430882954021576
+  },
+  {
+    "package": "amazonka-s3",
+    "score": 0.010430434791778688
+  },
+  {
+    "package": "antiope-messages",
+    "score": 0.010430434791778688
+  },
+  {
+    "package": "chronologique",
+    "score": 0.010430434791778688
+  },
+  {
+    "package": "core-data",
+    "score": 0.010430434791778688
+  },
+  {
+    "package": "haskoin-core",
+    "score": 0.010430434791778688
+  },
+  {
+    "package": "nqe",
+    "score": 0.010430434791778688
+  },
+  {
+    "package": "rocksdb-query",
+    "score": 0.010430434791778688
+  },
+  {
+    "package": "websockets-snap",
+    "score": 0.010430434791778688
+  },
+  {
+    "package": "hie-bios",
+    "score": 0.010430247728277577
+  },
+  {
+    "package": "inflections",
+    "score": 0.010412500009988444
+  },
+  {
+    "package": "rethinkdb-client-driver",
+    "score": 0.010412500009988444
+  },
+  {
+    "package": "haskell-src",
+    "score": 0.010395841663460713
+  },
+  {
+    "package": "HTF",
+    "score": 0.010395841663460713
+  },
+  {
+    "package": "hw-json",
+    "score": 0.010395841663460713
+  },
+  {
+    "package": "hw-xml",
+    "score": 0.010395841663460713
+  },
+  {
+    "package": "directory-tree",
+    "score": 0.01038076923112386
+  },
+  {
+    "package": "xhtml",
+    "score": 0.01038076923112386
+  },
+  {
+    "package": "ghc-lib-parser-ex",
+    "score": 0.01038062283628787
+  },
+  {
+    "package": "haskell-src-exts-util",
+    "score": 0.01038062283628787
+  },
+  {
+    "package": "hlint",
+    "score": 0.01038062283628787
+  },
+  {
+    "package": "refact",
+    "score": 0.01038062283628787
+  },
+  {
+    "package": "asif",
+    "score": 0.010366530910536985
+  },
+  {
+    "package": "thyme",
+    "score": 0.010366530910536985
+  },
+  {
+    "package": "secp256k1-haskell",
+    "score": 0.010356073473631123
+  },
+  {
+    "package": "string-conv",
+    "score": 0.010353571424784613
+  },
+  {
+    "package": "brittany",
+    "score": 0.010341261630468135
+  },
+  {
+    "package": "butcher",
+    "score": 0.010341261630468135
+  },
+  {
+    "package": "czipwith",
+    "score": 0.010341261630468135
+  },
+  {
+    "package": "data-tree-print",
+    "score": 0.010341261630468135
+  },
+  {
+    "package": "ghc-exactprint",
+    "score": 0.010341261630468135
+  },
+  {
+    "package": "monad-memo",
+    "score": 0.010341261630468135
+  },
+  {
+    "package": "assert-failure",
+    "score": 0.01033477256969184
+  },
+  {
+    "package": "hsini",
+    "score": 0.01033477256969184
+  },
+  {
+    "package": "miniutter",
+    "score": 0.01033477256969184
+  },
+  {
+    "package": "sdl2-ttf",
+    "score": 0.01033477256969184
+  },
+  {
+    "package": "cassava-megaparsec",
+    "score": 0.010323092684570372
+  },
+  {
+    "package": "uglymemo",
+    "score": 0.010323092684570372
+  },
+  {
+    "package": "hs-bibutils",
+    "score": 0.01029990910612592
+  },
+  {
+    "package": "minio-hs",
+    "score": 0.01029990910612592
+  },
+  {
+    "package": "pandoc-citeproc",
+    "score": 0.01029990910612592
+  },
+  {
+    "package": "raw-strings-qq",
+    "score": 0.01029990910612592
+  },
+  {
+    "package": "rfc5051",
+    "score": 0.01029990910612592
+  },
+  {
+    "package": "bson",
+    "score": 0.010291176458995332
+  },
+  {
+    "package": "dns",
+    "score": 0.010291176458995332
+  },
+  {
+    "package": "atomic-write",
+    "score": 0.01028827778789964
+  },
+  {
+    "package": "cborg-json",
+    "score": 0.01028827778789964
+  },
+  {
+    "package": "data-fix",
+    "score": 0.01028827778789964
+  },
+  {
+    "package": "repline",
+    "score": 0.01028827778789964
+  },
+  {
+    "package": "uri-encode",
+    "score": 0.01028827778789964
+  },
+  {
+    "package": "http-reverse-proxy",
+    "score": 0.010282857139827692
+  },
+  {
+    "package": "project-template",
+    "score": 0.010282857139827692
+  },
+  {
+    "package": "authenticate",
+    "score": 0.010281769222820012
+  },
+  {
+    "package": "wizards",
+    "score": 0.010269365911212448
+  },
+  {
+    "package": "hledger-web",
+    "score": 0.010247438140650508
+  },
+  {
+    "package": "wai-cors",
+    "score": 0.010247438140650508
+  },
+  {
+    "package": "wai-handler-launch",
+    "score": 0.010247438140650508
+  },
+  {
+    "package": "cmark-gfm",
+    "score": 0.01021975004380525
+  },
+  {
+    "package": "doctemplates",
+    "score": 0.01021975004380525
+  },
+  {
+    "package": "emojis",
+    "score": 0.01021975004380525
+  },
+  {
+    "package": "haddock-library",
+    "score": 0.01021975004380525
+  },
+  {
+    "package": "hslua-module-system",
+    "score": 0.01021975004380525
+  },
+  {
+    "package": "hslua-module-text",
+    "score": 0.01021975004380525
+  },
+  {
+    "package": "ipynb",
+    "score": 0.01021975004380525
+  },
+  {
+    "package": "texmath",
+    "score": 0.01021975004380525
+  },
+  {
+    "package": "filecache",
+    "score": 0.010215170611038292
+  },
+  {
+    "package": "hruby",
+    "score": 0.010215170611038292
+  },
+  {
+    "package": "language-puppet",
+    "score": 0.010215170611038292
+  },
+  {
+    "package": "pcre-utils",
+    "score": 0.010215170611038292
+  },
+  {
+    "package": "AC-Angle",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "accuerr",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ace",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "action-permutations",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "adler32",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "advent-of-code-api",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "aeson-attoparsec",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "aeson-compat",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "aeson-default",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "aeson-lens",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "aeson-optics",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "aeson-picker",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "aeson-qq",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "aeson-schemas",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "aeson-utils",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "aeson-yak",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "al",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "alerts",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "alex",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "algebraic-graphs",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "almost-fix",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "alsa-pcm",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "alsa-seq",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "alternative-vector",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-apigateway",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-application-autoscaling",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-appstream",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-athena",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-autoscaling",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-budgets",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-certificatemanager",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-cloudformation",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-cloudfront",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-cloudhsm",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-cloudsearch",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-cloudsearch-domains",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-cloudtrail",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-cloudwatch",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-cloudwatch-events",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-cloudwatch-logs",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-codebuild",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-codecommit",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-codedeploy",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-codepipeline",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-cognito-identity",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-cognito-idp",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-cognito-sync",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-config",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-datapipeline",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-devicefarm",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-directconnect",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-discovery",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-dms",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-ds",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-dynamodb-streams",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-ecr",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-ecs",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-efs",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-elasticache",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-elasticbeanstalk",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-elasticsearch",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-elastictranscoder",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-elb",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-elbv2",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-emr",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-gamelift",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-glacier",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-glue",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-health",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-iam",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-importexport",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-inspector",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-iot",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-iot-dataplane",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-kinesis",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-kinesis-analytics",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-kinesis-firehose",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-kms",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-lambda",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-lightsail",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-marketplace-analytics",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-marketplace-metering",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-ml",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-opsworks",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-opsworks-cm",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-pinpoint",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-polly",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-rds",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-redshift",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-rekognition",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-route53",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-route53-domains",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-sdb",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-servicecatalog",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-ses",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-shield",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-sms",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-snowball",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-ssm",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-stepfunctions",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-storagegateway",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-sts",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-support",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-swf",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-test",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-waf",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-workspaces",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amazonka-xray",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "amqp",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "antiope-dynamodb",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "antiope-s3",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "antiope-sns",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "antiope-sqs",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ANum",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "apecs-gloss",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "api-field-json-th",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "appendmap",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "apportionment",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "app-settings",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "arbor-lru-cache",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "arbor-postgres",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "array-memoize",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "arrow-extras",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "astro",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "async-extra",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "async-refresh-tokens",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "async-timer",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "atom-basic",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "attoparsec-base64",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "attoparsec-expr",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "audacity",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "aur",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "auto",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "avers",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "base32string",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "base58string",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "base64-bytestring-type",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "base64-lens",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "base64-string",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "bbdb",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "bech32",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "bench",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "bibtex",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "bimaps",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "bimap-server",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "binary-ext",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "binary-ieee754",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "binary-list",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "binary-parsers",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "binary-shared",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "binary-tagged",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "bindings-uname",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "bins",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "blake2",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "blas-carray",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "blas-comfort-array",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "blaze-bootstrap",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "boltzmann-samplers",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "boolean-like",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "boolean-normal-forms",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "boolsimplifier",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "boots",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "bordacount",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "boring",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "both",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "bound",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "BoundedChan",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "bounded-queue",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "boundingboxes",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "bower-json",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "btrfs",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "buffer-pipe",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "bugsnag-hs",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "bv",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "bv-little",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "byte-order",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "byteset",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "bytestring-to-vector",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "bz2",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "c2hs",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cabal-doctest",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cabal-flatpak",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cabal-rpm",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cache",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cacophony",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "calendar-recycling",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "can-i-haz",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ca-province-codes",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cased",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cases",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cassava-conduit",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cast",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cayley-client",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cfenv",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "chan",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ChannelT",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "charsetdetect-ae",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "Chart-diagrams",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "chaselev-deque",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ChasingBottoms",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "checksum",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "chimera",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "choice",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cipher-camellia",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cipher-des",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cipher-rc4",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "classy-prelude-yesod",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "clay",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "Clipboard",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "clock-extras",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "clr-host",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "clumpiness",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cmark-lucid",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "codec-beam",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "codec-rpm",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "coercible-utils",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "combinatorial",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "comfort-graph",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "commutative",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "compactmap",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "compensated",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "compiler-warnings",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "composable-associations-aeson",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "composition-extra",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "concise",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "concurrent-extra",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "conduit-algorithms",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "conduit-concurrent-map",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "conferer-hspec",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "conferer-provider-json",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "conferer-warp",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "configurator-export",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "connection-pool",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "console-style",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "constraint",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "constraint-tuples",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "control-bool",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "control-monad-omega",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "core-program",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "countable",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cpuinfo",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "crackNum",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "crc32c",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cron",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cryptohash-cryptoapi",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cryptonite-openssl",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "crypto-pubkey",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "crypto-random-api",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "crypt-sha512",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "csp",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "csv-conduit",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ctrie",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cubicspline",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cue-sheet",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "currencies",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "currency",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cursor-brick",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cursor-fuzzy-time",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cursor-gen",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cutter",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "cyclotomic",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "data-accessor-mtl",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "data-diverse",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "datadog",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "data-has",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "data-interval",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "data-memocombinators",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "data-or",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "dataurl",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "DAV",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "debug-trace-var",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "declarative",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "deriveJsonNoPrefix",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "deriving-compat",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "detour-via-sci",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "diagrams",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "diagrams-rasterific",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "digits",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "dimensional",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "di-monad",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "discount",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "disk-free-space",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "distribution-nixpkgs",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "dl-fedora",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "dlist-nonempty",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "dockerfile",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "doctest-discover",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "doldol",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "do-list",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "do-notation",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "dotnet-timespan",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "drinkery",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "dsp",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "dublincore-xml-conduit",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "dunai",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "duration",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "dvorak",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "dynamic-state",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "dyre",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "eap",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "Ebnf2ps",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ecstasy",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ed25519",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "edit-distance",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "either-both",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "elerea",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "elf",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "eliminators",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "elm-core-sources",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "elm-export",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "emacs-module",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ENIG",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "enum-subset-generate",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "envelope",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "envy",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "eq",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "equal-files",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "errors-ext",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "etc",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "eventful-test-helpers",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "every",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "exact-combinatorics",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "exit-codes",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "exomizer",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "exp-pairs",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "extensible-effects",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "extractable-singleton",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "extrapolate",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "fakedata",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "farmhash",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "fast-digits",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "fb",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "feature-flags",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "fedora-haskell-tools",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "feed",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "FenwickTree",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "filelock",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "fileplow",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "filtrable",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "FindBin",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "first-class-patterns",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "fitspec",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "fixed-length",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "fixed-vector-hetero",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "flac-picture",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "flags-applicative",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "flat-mcmc",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "flow",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "flush-queue",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "fn",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "foldable1",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "fold-debounce-conduit",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "folds",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "foreign-store",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ForestStructures",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "forkable-monad",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "forma",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "format-numbers",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "free-categories",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "freenect",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "friendly-time",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "frontmatter",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "fsnotify-conduit",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "funcmp",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "function-builder",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "functor-classes-compat",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "fused-effects",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "fusion-plugin",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "fuzzcheck",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "fuzzy",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "fuzzy-dates",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "fuzzyset",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "gauge",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "gd",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "general-games",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "generic-arbitrary",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "generic-constraints",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "GenericPretty",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "generic-random",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "generics-sop-lens",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "genvalidity-aeson",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "genvalidity-bytestring",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "genvalidity-criterion",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "genvalidity-hspec-aeson",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "genvalidity-hspec-binary",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "genvalidity-hspec-cereal",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "genvalidity-hspec-hashable",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "genvalidity-hspec-optics",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "genvalidity-hspec-persistent",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "genvalidity-mergeful",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "genvalidity-mergeless",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "genvalidity-path",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "genvalidity-typed-uuid",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "geojson",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ghc-core",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ghcid",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ghci-hexcalc",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ghcjs-codemirror",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ghc-lib",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ghc-typelits-extra",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ghost-buster",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "gi-dbusmenugtk3",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "gi-gdkx11",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "gi-graphene",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "gi-gtk-hs",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "gingersnap",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "giphy-api",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "github-rest",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "github-types",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "gitlab-haskell",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "gl",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "glabrous",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "gluturtle",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "google-isbn",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "gothic",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "graph-core",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "graphite",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "graphs",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "graph-wrapper",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "gravatar",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "greskell",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "greskell-websocket",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "group-by-date",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hackage-db",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hamtsolo",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "happy",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hashable-time",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hashids",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hashmap",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "haskell-names",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "haskey-btree",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "haskoin-node",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hasql-optparse-applicative",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hasql-transaction",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "haxr",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hdaemonize",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "heart-core",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hebrew-time",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hedgehog-corpus",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hedgehog-quickcheck",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hedis",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "here",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hexml-lens",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hexstring",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hfsevents",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hidapi",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hi-file-parser",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "higher-leveldb",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hkgr",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hledger-interest",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hledger-ui",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hlibgit2",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hmatrix-gsl-stats",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hmatrix-vector-sized",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hmpfr",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hopenssl",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hopfli",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hostname-validate",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hourglass-orphans",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hp2pretty",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hreader-lens",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hsc2hs",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hsdns",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hsebaysdk",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hs-GeoIP",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "HSlippyMap",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hslua-aeson",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hsp",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hspec-attoparsec",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hspec-checkers",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hspec-contrib",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hspec-expectations-lifted",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hspec-expectations-pretty-diff",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hspec-golden-aeson",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hspec-leancheck",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hspec-meta",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hspec-need-env",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hspec-parsec",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hspec-wai",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hs-php-session",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "HStringTemplate",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "HSvm",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "htaglib",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "html-entities",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "htoml",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "http-client-openssl",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "http-download",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "httpd-shed",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "http-link-header",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "human-readable-duration",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "HUnit-approx",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hunit-dejafu",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hvect",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hvega",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hw-conduit",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hw-conduit-merges",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hw-diagnostics",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hweblib",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hw-fingertree-strict",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hw-hedgehog",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hw-hspec-hedgehog",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hw-streams",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hw-succinct",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hxt-css",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hybrid-vectors",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hyperloglog",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "hyphenation",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "identicon",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "if",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "iff",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ihs",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ilist",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "imagesize-conduit",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "immortal",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "include-file",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "incremental-parser",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "indents",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "infer-license",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "inj",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "inspection-testing",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "instance-control",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "int-cast",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "integer-roots",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "intern",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "interpolate",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "interpolation",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "interpolator",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "IntervalMap",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "intro",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "intset-imperative",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "invertible",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "io-machine",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "io-memoize",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "io-region",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ip6addr",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "irc-client",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "islink",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "iso639",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "iso8601-time",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "iterable",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "jack",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "jailbreak-cabal",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "jose-jwt",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "json-alt",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "json-feed",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "jsonpath",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "json-rpc-generic",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "JuicyPixels-extra",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "JuicyPixels-scale-dct",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "junit-xml",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "justified-containers",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "katip",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "kawhi",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "kazura-queue",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "kdt",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "keycode",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "kind-generics-th",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "kmeans",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "koofr-client",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "kubernetes-webhook-haskell",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "l10n",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "labels",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "lackey",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "lame",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "language-avro",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "language-c-quote",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "language-java",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "language-protobuf",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "lapack-carray",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "lapack-comfort-array",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "lapack-ffi-tools",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "largeword",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "lazy-csv",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "lazyio",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "lca",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "leancheck-instances",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "leapseconds-announced",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "lens-datetime",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "lens-family-th",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "lens-misc",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "lens-properties",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "lens-regex",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "lenz",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "libffi",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "libgit",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "libgraph",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "LibZip",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "lift-generics",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "linux-file-extents",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "linux-namespaces",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "listsafe",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "list-singleton",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ListTree",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "llvm-hs",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "lmdb",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "load-env",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "log-base",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "logfloat",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "logging-effect",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "logging-facade-syslog",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "lrucache",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "lrucaching",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "lsp-test",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "lucid-extras",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "main-tester",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "makefile",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "markdown",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "markov-chain",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "massiv-io",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "massiv-test",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "mathexpr",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "matplotlib",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "matrix-market-attoparsec",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "matrix-static",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "maximal-cliques",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "mbox",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "mbox-utility",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "median-stream",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "megaparsec-tests",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "membrain",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "mersenne-random-pure64",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "messagepack",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "metrics",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "microlens-contra",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "microlens-process",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "microspec",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "midair",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "mime-mail-ses",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "minimal-configuration",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "mintty",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "miso",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "missing-foreign",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "mixed-types-num",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "mltool",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "mmark-cli",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "mnist-idx",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "mockery",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "mod",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "modular",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "monad-extras",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "monadic-arrays",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "monad-journal",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "monad-logger-json",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "monad-logger-prefix",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "monad-peel",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "monad-products",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "MonadPrompt",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "monad-resumption",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "monad-skeleton",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "monad-st",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "monad-unlift-ref",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "mongoDB",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "more-containers",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "morpheus-graphql",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "mountpoints",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "mtl-prelude",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "multiarg",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "multimap",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "multiset",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "murmur-hash",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "MusicBrainz",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "mx-state-codes",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "n2o",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "nagios-check",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "nano-erl",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "nanospec",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "natural-induction",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "natural-sort",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ndjson-conduit",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "netrc",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "nettle",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "network-transport-composed",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "NineP",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "nix-paths",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "NoHoed",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "nonempty-containers",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "nonemptymap",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "non-empty-sequence",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "no-value",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "nowdoc",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "nsis",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "numbers",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "numeric-extras",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "numhask",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "oauthenticated",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "oeis2",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ofx",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "once",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "one-liner-instances",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "oo-prototypes",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "opaleye",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "openexr-write",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "openpgp-asciiarmor",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "opensource",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "opentelemetry",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "operational-class",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "optics",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "optics-vl",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "options",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "optparse-text",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "overhang",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "packcheck",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pagination",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "parseargs",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "parsec-numbers",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "parsec-numeric",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "parser-combinators-tests",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "partial-handler",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "password-instances",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pathwalk",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pattern-arrows",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pcre-heavy",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pdfinfo",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "percent-format",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "persist",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "persistent-mysql",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "persistent-pagination",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "persistent-postgresql",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "persistent-qq",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "persistent-test",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "persistent-typed-db",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pg-harness-client",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pgp-wordlist",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pg-transact",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pipes-aeson",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pipes-binary",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pipes-concurrency",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pipes-csv",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pipes-extras",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pipes-fastx",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pipes-http",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pipes-network-tls",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pipes-random",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pipes-wai",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pkcs10",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "planb-token-introspection",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "plotlyhs",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pointless-fun",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "poly",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "poly-arity",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "polynomials-bernstein",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pooled-io",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "posix-paths",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "possibly",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "post-mess-age",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pptable",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "prefix-units",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "prelude-safeenum",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "prettyclass",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pretty-class",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "prettyprinter-compat-annotated-wl-pprint",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "prettyprinter-compat-ansi-wl-pprint",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "prettyprinter-compat-wl-pprint",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "prettyprinter-convert-ansi-wl-pprint",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pretty-relative-time",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pretty-sop",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pretty-types",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "profiterole",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "projectroot",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "prometheus-client",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "promises",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "prompt",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "prospect",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "protobuf-simple",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "protocol-radius-test",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "proto-lens-arbitrary",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "proto-lens-optparse",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "proto-lens-protobuf-types",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "proto-lens-setup",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "proxied",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "publicsuffix",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pulse-simple",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pushbullet-types",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "pusher-http-haskell",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "PyF",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "qm-interpolated-string",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "qrcode-juicypixels",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "quadratic-irrational",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "QuasiText",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "quickcheck-assertions",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "quickcheck-classes",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "quickcheck-special",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "quickcheck-text",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "quickcheck-transformer",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "quickcheck-unicode",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "radius",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "rainbox",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ramus",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "rando",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "random-bytestring",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "random-tree",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "range",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "Ranged-sets",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "range-set-list",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "rank1dynamic",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ratel-wai",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "rattle",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "rawfilepath",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "rawstring-qm",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "rdf",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "rdtsc",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "re2",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "read-editor",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "read-env-var",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "reanimate-svg",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "record-dot-preprocessor",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "record-hasfield",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "records-sop",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "recursion-schemes",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ref-fd",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "regex-applicative",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "regex-pcre",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "regex-with-pcre",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "reinterpret-cast",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "relapse",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "relational-schemas",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "relude",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "renderable",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "replace-attoparsec",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "replace-megaparsec",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "req-conduit",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "rerebase",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "result",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "rev-state",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "rfc1751",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "rigel-viz",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "rio-orphans",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "roc-id",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "rosezipper",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "rot13",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "rpmbuild-order",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "runmemo",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "safe-decimal",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "safe-foldable",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "safeio",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "safe-json",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "safe-money",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "salak-yaml",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "saltine",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "salve",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "sample-frame-np",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "sampling",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "scalpel",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "scanf",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "sdl2-mixer",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "search-algorithms",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "selda-json",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "semialign-indexed",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "semialign-optics",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "semigroupoid-extras",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "semiring-simple",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "semver",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "sendfile",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "seqalign",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "serf",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "servant-cassava",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "servant-conduit",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "servant-machines",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "servant-pipes",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "servant-purescript",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "servant-swagger",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "servant-swagger-ui",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "servant-swagger-ui-redoc",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "servant-yaml",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "serversession-frontend-wai",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ses-html",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "set-cover",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "shared-memory",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "shell-conduit",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "shelltestrunner",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "should-not-typecheck",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "simple-log",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "simple-reflect",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "simplest-sqlite",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "simple-templates",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "simple-vec3",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "simplistic-generics",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "since",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "sitemap-gen",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "sized",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "skip-var",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "slist",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "smoothie",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "snap-blaze",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "snowflake",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "soap-tls",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "sourcemap",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "sox",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "soxlib",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "sparse-linear-algebra",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "sparse-tensor",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "Spintax",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "splice",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "spoon",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "stack-templatizer",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "starter",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "stateref",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "stb-image-redux",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "step-function",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "stm-containers",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "stm-extras",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "stm-split",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "stopwatch",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "streaming-bytestring",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "streamly",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "strict-concurrency",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "stringbuilder",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "string-class",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "string-combinators",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "string-qq",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "string-transform",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "stripe-signature",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "strive",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "structs",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "sundown",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "superbuffer",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "swagger",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "symengine",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "sysinfo",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "system-argv0",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "system-info",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tagged-binary",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tagged-identity",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tagged-transformer",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tagshare",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tao-example",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tar-conduit",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tardis",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tasty-ant-xml",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tasty-dejafu",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tasty-expected-failure",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tasty-golden",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tasty-hedgehog",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tasty-hspec",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tasty-kat",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tasty-leancheck",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tasty-lua",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tasty-program",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tasty-rerun",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tasty-silver",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tasty-th",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tasty-wai",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "Taxonomy",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "TCache",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tdigest",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "temporary-rc",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tensorflow-test",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tensors",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "terminal-progress-bar",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "test-framework-leancheck",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "test-framework-quickcheck2",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "test-framework-smallcheck",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "test-framework-th",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "testing-feat",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "text-binary",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "text-icu",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "textlocal",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "text-manipulate",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "text-postgresql",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "text-region",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "text-show-instances",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "these-lens",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "these-optics",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "th-printf",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "thread-hierarchy",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "thread-local-storage",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "threads",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "thread-supervisor",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "threepenny-gui",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "throttle-io-stream",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "throwable-exceptions",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "th-strict-compat",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "th-test-utils",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tidal",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tile",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "timelens",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "time-lens",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "time-locale-vietnamese",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "time-parsers",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "timezone-olson",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tinylog",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tls-debug",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tmapchan",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tmapmvar",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tonalude",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tostring",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tracing",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "transaction",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "transformers-bifunctors",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "transformers-fix",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tree-diff",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "trifecta",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "triplesec",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "trivial-constraint",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ttc",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ttl-hashtables",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ttrie",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tuple",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tuples-homogenous-h98",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tuple-sop",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tuple-th",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "type-level-integers",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "type-level-kv-list",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "type-level-numbers",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "type-map",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "typenums",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "type-of-html-static",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "type-operators",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "type-spec",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "tzdata",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ua-parser",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "unboxed-ref",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "unboxing-vector",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "uncertain",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "unicode",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "unification-fd",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "uniprot-kb",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "uniq-deep",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "unique-logic",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "unique-logic-tf",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "unit-constraint",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "universe",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "universe-instances-base",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "universe-instances-trans",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "universum",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "unix-bytestring",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "unliftio-pool",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "unordered-intmap",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "urbit-hob",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "urlpath",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "users",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "utf8-light",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "validity-primitive",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "valor",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "vector-buffer",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "vector-bytes-instances",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "vector-mmap",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "vector-rotcev",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "verbosity",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "versions",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "vformat-aeson",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "vformat-time",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "ViennaRNAParser",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "wai-conduit",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "wai-eventsource",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "wai-middleware-caching",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "wai-slack-middleware",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "warp-tls-uid",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "webdriver",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "webrtc-vad",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "weigh",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "wikicfp-scraper",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "wild-bind-x11",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "windns",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "with-location",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "witness",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "wl-pprint-console",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "word24",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "word-trie",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "wrap",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "wreq",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "writer-cps-exceptions",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "wuss",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "Xauth",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "xlsx-tabular",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "xml-html-qq",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "xml-indexed-cursor",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "xml-lens",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "xml-picklers",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "xmonad-extras",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "xturtle",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "xxhash-ffi",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "yesod-auth-hashdb",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "yesod-bin",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "yesod-gitrev",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "yesod-sitemap",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "yesod-test",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "yesod-websockets",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "yi-rope",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "youtube",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "zasni-gerna",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "zim-parser",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "zippers",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "zlib-lens",
+    "score": 0.010000000000000009
+  },
+  {
+    "package": "zot",
+    "score": 0.010000000000000009
+  }
+]

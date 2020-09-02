@@ -7,6 +7,6 @@ libraries were installed globally on my machine and python files ran individuall
 
 Files were updated and changed along the way in a sometimes haphazard fashion.
 
-The directory [Hackage Parser 2](https://github.com/P-Arnold/Final_year_project/tree/master/Hackage%20Parser%202) contains two python scripts. [main.py](Hackage\ Parser\ 2/main.py) and [cypherFuncs2.py](Hackage\ Parser\ 2/cypherFuncs2.py)
+The directory [Hackage Parser 2](https://github.com/P-Arnold/Final_year_project/tree/master/Hackage%20Parser%202) contains two python scripts. [main.py](https://github.com/P-Arnold/Final_year_project/tree/master/Hackage%20Parser%202/main.py) and [cypherFuncs2.py](https://github.com/P-Arnold/Final_year_project/tree/master/Hackage%20Parser%202/cypherFuncs2.py)
 
 

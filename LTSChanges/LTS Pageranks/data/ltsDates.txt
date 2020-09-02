@@ -1,0 +1,16 @@
+LTS Haskell 15.0 (ghc-8.8.2), Published on 2020-02-16
+LTS Haskell 14.0 (ghc-8.6.5), Published on 2019-08-05
+LTS Haskell 13.0 (ghc-8.6.3), Published on 2018-12-23
+LTS Haskell 12.0 (ghc-8.4.3), Published on 2018-07-09
+LTS Haskell 11.0 (ghc-8.2.2), Published on 2018-03-12
+LTS Haskell 10.0 (ghc-8.2.2), Published on 2017-12-19
+LTS Haskell 9.0 (ghc-8.0.2), Published on 2017-07-26
+LTS Haskell 8.0 (ghc-8.0.2), Published on 2017-02-12
+LTS Haskell 7.0 (ghc-8.0.1), Published on 2016-09-14
+LTS Haskell 6.0 (ghc-7.10.3), Published on 2016-05-25
+LTS Haskell 5.0 (ghc-7.10.3), Published on 2016-01-26
+LTS Haskell 4.0 (ghc-7.10.3), Published on 2016-01-06
+LTS Haskell 3.0 (ghc-7.10.2), Published on 2015-08-12
+LTS Haskell 2.0 (ghc-7.8.4), Published on 2015-04-02
+LTS Haskell 1.0 (ghc-7.8.4), Published on 2015-01-01
+LTS Haskell 0.0 (ghc-7.8.3), Published on 2014-12-12

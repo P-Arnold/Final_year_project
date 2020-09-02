@@ -7,6 +7,6 @@ libraries were installed globally on my machine and python files ran individuall
 
 Files were updated and changed along the way in a, sometimes, haphazard fashion.
 
-[a relative link]("Hackage Parser 2")
+The directory [Hackage Parser 2](https://github.com/P-Arnold/Final_year_project/tree/master/Hackage%20Parser%202)
 
 

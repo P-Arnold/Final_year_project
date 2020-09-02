@@ -7,6 +7,6 @@ libraries were installed globally on my machine and python files ran individuall
 
 Files were updated and changed along the way in a, sometimes, haphazard fashion.
 
-[a relative link]["Hackage\ Parser\ 2"]
+[a relative link]("Hackage\ Parser\ 2")
 
 
